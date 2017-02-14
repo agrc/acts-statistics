@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions
+END
+dissolve.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/dissolve.css
+END
+flip.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/flip.css
+END
+fade.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/fade.css
+END
+swirl.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/swirl.css
+END
+slide.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/slide.css
+END
+revealv.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/revealv.css
+END
+coverv.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/coverv.css
+END
+swap.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/swap.css
+END
+zoomIn.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/zoomIn.css
+END
+zoomOut.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/zoomOut.css
+END
+scaleIn.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/scaleIn.css
+END
+reveal.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/reveal.css
+END
+cube.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/cube.css
+END
+cover.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/cover.css
+END
+scaleOut.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/scaleOut.css
+END
+slidev.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions/slidev.css
+END

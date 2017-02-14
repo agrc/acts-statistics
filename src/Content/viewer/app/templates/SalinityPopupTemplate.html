@@ -1,0 +1,24 @@
+<div class='contract-popup'>
+    <h3>{{projectName}}</h3>
+    <b>Project Purpose</b>
+    <p>This project was designed to reduce salt from entering the Colorado River, increase irrigation water efficiency, and improve crop yields within the project area.</p>
+    <div>
+        <b>Contract Number(s): </b> 
+        <div class="list-container">
+            {{#contractNumbers}}<span> {{.}}</span>{{/contractNumbers}}
+        </div>
+    </div>
+    <div><b>Project Area: </b>{{projectArea}}</div>
+    <b>{{practicesLabel}}</b>
+    <ul>
+        {{#practicesInstalled}}
+        <li>{{.}}</li>
+        {{/practicesInstalled}}
+    </ul>
+    <div><b>Project Status: </b>{{contractStatus}}</div>
+    <div>
+        <b>Project Expenditures: </b><span class="right">{{amountOfContractPaid}}</span>
+        <br><b>Producer's Costs: </b><span class="right">{{producersCosts}}</span>
+        <br><b>Total Cost of Project: </b><span class="right">{{totalCost}}</span>
+    </div>
+</div>

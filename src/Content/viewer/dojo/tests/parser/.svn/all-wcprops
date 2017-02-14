@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser
+END
+parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/parser.html
+END
+parseOnLoadAutoRequire.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/parseOnLoadAutoRequire.html
+END
+bench.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/bench.html
+END
+parser-args.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/parser-args.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/runTests.html
+END
+parseOnLoadDeclarativeRequire.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/parser/parseOnLoadDeclarativeRequire.html
+END

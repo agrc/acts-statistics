@@ -1,0 +1,12 @@
+.filter .name-container {
+    margin-top: 3px;
+    float: left;
+}
+.filter .dijitValidationTextBox {
+    width: 150px;
+    float: right;
+}
+.filter label span {
+    width: 90px;
+    display: inline-block;
+}

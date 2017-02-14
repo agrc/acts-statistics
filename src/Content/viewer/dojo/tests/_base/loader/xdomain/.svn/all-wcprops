@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain
+END
+local1-runtimeDependent1.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local1-runtimeDependent1.js
+END
+xdomain.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/xdomain.html
+END
+local1.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local1.js
+END
+local1-browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local1-browser.js
+END
+local2.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local2.js
+END
+local3.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local3.js
+END
+local1-browser-skip.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local1-browser-skip.js
+END
+local1-dep.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/xdomain/local1-dep.js
+END

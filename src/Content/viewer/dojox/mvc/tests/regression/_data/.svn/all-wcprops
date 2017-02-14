@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/_data
+END
+mvcGenerateData.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/_data/mvcGenerateData.json
+END
+mvcRepeatData.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/_data/mvcRepeatData.json
+END
+jsonRestRepeatData.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/_data/jsonRestRepeatData.json
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30224/tags/release-1.8.3/util/doh/_sounds
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30224/tags/release-1.8.3/util/doh/_sounds/LICENSE
+END
+doh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30224/tags/release-1.8.3/util/doh/_sounds/doh.wav
+END
+woohoo.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30224/tags/release-1.8.3/util/doh/_sounds/woohoo.wav
+END
+dohaaa.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30224/tags/release-1.8.3/util/doh/_sounds/dohaaa.wav
+END

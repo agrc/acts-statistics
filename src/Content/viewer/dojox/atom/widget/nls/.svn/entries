@@ -1,0 +1,257 @@
+10
+
+dir
+31452
+http://svn.dojotoolkit.org/src/tags/release-1.8.3/dojox/atom/widget/nls
+http://svn.dojotoolkit.org/src
+
+
+
+2012-05-02T21:08:19.985052Z
+28501
+doughays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+560b804f-0ae3-0310-86f3-f6aa0a117693
+
+da
+dir
+
+sv
+dir
+
+de
+dir
+
+ja
+dir
+
+he
+dir
+
+fi
+dir
+
+nb
+dir
+
+PeopleEditor.js
+file
+
+
+
+
+2013-04-25T16:52:48.000000Z
+610f90d1846d1a840cf51bb4375943b0
+2011-12-26T19:19:52.121868Z
+27462
+doughays
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+518
+
+fr
+dir
+
+FeedEntryEditor.js
+file
+
+
+
+
+2013-04-25T16:52:48.000000Z
+cc399858963eb53462663efd54ea5650
+2011-12-26T19:19:52.121868Z
+27462
+doughays
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+514
+
+nl
+dir
+
+hr
+dir
+
+th
+dir
+
+pl
+dir
+
+hu
+dir
+
+ro
+dir
+
+zh
+dir
+
+FeedEntryViewer.js
+file
+
+
+
+
+2013-04-25T16:52:48.000000Z
+c92736c7ebd931c8e690e64549ca0c95
+2011-12-26T19:19:52.121868Z
+27462
+doughays
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+643
+
+FeedViewerEntry.js
+file
+
+
+
+
+2013-04-25T16:52:48.000000Z
+09940090d6cb0a14f2e9b3719d47b4ec
+2011-12-26T19:19:52.121868Z
+27462
+doughays
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+470
+
+ca
+dir
+
+pt
+dir
+
+tr
+dir
+
+ru
+dir
+
+el
+dir
+
+ar
+dir
+
+pt-pt
+dir
+
+cs
+dir
+
+kk
+dir
+
+es
+dir
+
+zh-tw
+dir
+
+ko
+dir
+
+az
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+

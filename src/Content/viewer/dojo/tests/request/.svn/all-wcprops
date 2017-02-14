@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/node.js
+END
+xhr.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/xhr.html
+END
+xhrDummyMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/xhrDummyMethod.php
+END
+iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/iframe.html
+END
+iframeDummyMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/iframeDummyMethod.php
+END
+script.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/script.html
+END
+scriptDummyMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/scriptDummyMethod.php
+END
+handlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/handlers.js
+END
+notify.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/notify.html
+END
+registry.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/request/registry.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/dnd/tests
+END
+test_selector.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/dnd/tests/test_selector.html
+END
+testAll.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/dnd/tests/testAll.js
+END
+test_boundingBoxController.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/dnd/tests/test_boundingBoxController.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/dnd/tests/runTests.html
+END

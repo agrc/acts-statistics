@@ -1,0 +1,1505 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests
+END
+test_ScrollableView-v-ah-af-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-ah-af-inp.html
+END
+test_TabBar-syncWithViews.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar-syncWithViews.html
+END
+test_migrationAssist.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_migrationAssist.html
+END
+test_ScrollableView-v.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v.html
+END
+test_IconContainer-multi.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-multi.html
+END
+test_FixedSplitter-V3-var2.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V3-var2.html
+END
+test_ScrollablePane.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollablePane.html
+END
+test_ListItem-actions.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-actions.html
+END
+test_StoreCarousel-resize.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel-resize.html
+END
+test_StoreCarousel.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel.html
+END
+test_bk-grouped-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-grouped-views.html
+END
+test_EdgeToEdgeStoreList-more-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-more-sv.html
+END
+test_SpinWheel-1slot.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheel-1slot.html
+END
+test_Heading.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Heading.html
+END
+test_Opener-DateSpinWheel-lazy.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-DateSpinWheel-lazy.html
+END
+test_scrollable-no-dojo-ah-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_scrollable-no-dojo-ah-af.html
+END
+test_IconMenu-programmatic.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconMenu-programmatic.html
+END
+test_IconContainer-highlight.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-highlight.html
+END
+test_bg-view.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bg-view.html
+END
+test_grouped-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_grouped-views.html
+END
+test_RoundRectList.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList.html
+END
+test_theme-switch.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_theme-switch.html
+END
+test_IconContainer-transition-zoom.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-transition-zoom.html
+END
+test_TabBar-seg-grouped-scroll.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar-seg-grouped-scroll.html
+END
+test_TabBar-seg.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar-seg.html
+END
+test_EdgeToEdgeStoreList-more-v.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-more-v.html
+END
+test_tablet-settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_tablet-settings.html
+END
+test_transition-animations-extended1.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-extended1.html
+END
+test_SimpleDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SimpleDialog.html
+END
+test_ValuePickerDatePicker-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePickerDatePicker-setter.html
+END
+test_scrollable-no-dojo-ah.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_scrollable-no-dojo-ah.html
+END
+test_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_a11y.html
+END
+test_RoundRectList-check.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-check.html
+END
+test_Opener-Calendar-lazy.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-Calendar-lazy.html
+END
+test_ContentPane.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ContentPane.html
+END
+test_Audio-single-source.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Audio-single-source.html
+END
+test_EdgeToEdgeDataList-auto-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList-auto-sv.html
+END
+test_SpinWheelTimePicker-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheelTimePicker-setter.html
+END
+test_IconContainer-single-below.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-single-below.html
+END
+test_EdgeToEdgeDataList.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList.html
+END
+test_orientation-transition.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_orientation-transition.html
+END
+test_Rating.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Rating.html
+END
+test_IconMenu-6up.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconMenu-6up.html
+END
+test_scrollable-no-dojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_scrollable-no-dojo.html
+END
+test_new_transition-animations2.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_new_transition-animations2.html
+END
+test_Rating-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Rating-setter.html
+END
+test_EdgeToEdgeList.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList.html
+END
+test_bk-ScrollableView-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-ScrollableView-demo.html
+END
+test_ScrollableView-v-ah-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-ah-af.html
+END
+test_TabBar-badge.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar-badge.html
+END
+test_IconContainer-badge.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-badge.html
+END
+test_Opener-Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-Calendar.html
+END
+test_StoreCarousel-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel-prog.html
+END
+test_IconContainer-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-prog.html
+END
+test_ProgressIndicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressIndicator.html
+END
+test_Audio.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Audio.html
+END
+test_Switch.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Switch.html
+END
+test_new_transition-animations-standard.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_new_transition-animations-standard.html
+END
+test_ToolBarButton-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ToolBarButton-setter.html
+END
+test_ScrollableView-h.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-h.html
+END
+dojostub.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/dojostub.js
+END
+test_ScrollableView-v-vh-af-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh-af-inp.html
+END
+test_ScreenSizeAware-tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScreenSizeAware-tag.html
+END
+test_SwapView-slideshow.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SwapView-slideshow.html
+END
+test_ListItem-layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-layout.html
+END
+test_ValuePicker-dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePicker-dialog.html
+END
+test_bk_force-ScrollableView-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-ScrollableView-demo.html
+END
+test_Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Calendar.html
+END
+test_transition-animations2.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations2.html
+END
+test_StoreCarousel-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel-demo.html
+END
+test_ScrollablePane-mask.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollablePane-mask.html
+END
+test_ScrollableView-v-vh-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh-inp.html
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/index.js
+END
+test_transition-connect.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-connect.html
+END
+test_Opener-DateSpinWheel.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-DateSpinWheel.html
+END
+test_Opener-ColorPalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-ColorPalette.html
+END
+test_Accordion-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Accordion-demo.html
+END
+test_EdgeToEdgeDataList-more-v.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList-more-v.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/runTests.html
+END
+test_transition-animations-standard.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-standard.html
+END
+test_IconContainer-transition-below.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-transition-below.html
+END
+test_DataCarousel-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_DataCarousel-demo.html
+END
+test_ScrollableView-short-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-short-inp.html
+END
+test_ComboBox-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ComboBox-sv.html
+END
+test_StoreCarousel-widgets.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel-widgets.html
+END
+test_pageTurningUtils-callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_pageTurningUtils-callback.html
+END
+test_EdgeToEdgeList-editable.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-editable.html
+END
+test_IconContainer-removeConfirmation.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-removeConfirmation.html
+END
+test_EdgeToEdgeStoreList-auto-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-auto-sv.html
+END
+test_IconMenu-standalone.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconMenu-standalone.html
+END
+test_dynamic-items.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_dynamic-items.html
+END
+test_RoundRectCategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectCategory.html
+END
+test_ListItem-button.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-button.html
+END
+test_new_transition-animations.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_new_transition-animations.html
+END
+test_EdgeToEdgeStoreList.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList.html
+END
+test_domButtons16.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_domButtons16.html
+END
+test_RoundRect.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRect.html
+END
+test_GridLayout-change.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_GridLayout-change.html
+END
+test_ValuePickerDatePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePickerDatePicker.html
+END
+test_html-form-controls.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_html-form-controls.html
+END
+test_RoundRectList-editable.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-editable.html
+END
+test_transition-animations-extended3.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-extended3.html
+END
+test_ScrollableView-hv-vh-vf.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-hv-vh-vf.html
+END
+test_bk-split-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-split-views.html
+END
+test_ValuePicker-custom.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePicker-custom.html
+END
+test_FixedSplitter-V3-var1.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V3-var1.html
+END
+test_dynamic-ScrollableView-vh-vf.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_dynamic-ScrollableView-vh-vf.html
+END
+test_EdgeToEdgeList-editable-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-editable-sv.html
+END
+test_ScreenSizeAware-demo-tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScreenSizeAware-demo-tag.html
+END
+test_FormControls.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FormControls.html
+END
+test_ScreenSizeAware-demo-prop.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScreenSizeAware-demo-prop.html
+END
+test_SpinWheelDatePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheelDatePicker.html
+END
+test_TabBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar.html
+END
+test_IconContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer.html
+END
+test_FixedSplitter-H2.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-H2.html
+END
+test_bk_force-split-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-split-views.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/module.js
+END
+test_ListItem-sprite.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-sprite.html
+END
+test_ScrollableMixin-custom.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableMixin-custom.html
+END
+test_IconContainer-sprite.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-sprite.html
+END
+test_hash-parameter.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_hash-parameter.html
+END
+test_Opener-SearchList-async.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-SearchList-async.html
+END
+test_Badge.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Badge.html
+END
+test_FixedSplitter-H2-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-H2-prog.html
+END
+test_EdgeToEdgeList-check.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-check.html
+END
+test_FixedSplitter-V2H2.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V2H2.html
+END
+test_Opener-ActionSheet-async.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-ActionSheet-async.html
+END
+test_SpinWheel-icons.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheel-icons.html
+END
+test_phone-settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_phone-settings.html
+END
+test_ScrollableView-short.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-short.html
+END
+test_Button.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Button.html
+END
+test_IconContainer-editable-a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-editable-a11y.html
+END
+test_EdgeToEdgeList-syncWithViews.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-syncWithViews.html
+END
+test_Carousel.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Carousel.html
+END
+test_i18n.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_i18n.html
+END
+test_ScreenSizeAware-icon.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScreenSizeAware-icon.html
+END
+test_Opener-Calendar-lazy-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-Calendar-lazy-prog.html
+END
+test_FixedSplitter-V2H2-ContentPane.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V2H2-ContentPane.html
+END
+test_Carousel-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Carousel-prog.html
+END
+test_Slider.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Slider.html
+END
+test_Video-single-source.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Video-single-source.html
+END
+test_bk_force-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-list.html
+END
+test_html-inputs.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_html-inputs.html
+END
+test_RoundRectList-vh-icons.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-vh-icons.html
+END
+test_EdgeToEdgeStoreList-categ.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-categ.html
+END
+test_SimpleDialog-load.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SimpleDialog-load.html
+END
+test_ScrollableView-v-vh-vf-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh-vf-inp.html
+END
+test_transition-pubsub.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-pubsub.html
+END
+test_bg.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bg.html
+END
+test_Rating-prog.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Rating-prog.html
+END
+test_Tooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Tooltip.html
+END
+test_add-to-home-screen-sample.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_add-to-home-screen-sample.html
+END
+test_transition-animations.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations.html
+END
+test_bk_force-content-view.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-content-view.html
+END
+test_RoundRectDataList.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectDataList.html
+END
+test_ValuePickerTimePicker-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePickerTimePicker-setter.html
+END
+test_ScrollableView-demo-long.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-demo-long.html
+END
+test_TimePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TimePicker.html
+END
+test_RoundRectList-inherit.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-inherit.html
+END
+test_ListItem-transOpt.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-transOpt.html
+END
+test_bk-tablet-settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-tablet-settings.html
+END
+test_Switch-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Switch-setter.html
+END
+test_data-handlers.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_data-handlers.html
+END
+test_bk_force-grouped-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-grouped-views.html
+END
+test_EdgeToEdgeList-variable.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-variable.html
+END
+test_FixedSplitter-V3.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V3.html
+END
+test_ValuePickerSlot.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePickerSlot.html
+END
+test_transition-animations-extended5.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-extended5.html
+END
+test_EdgeToEdgeStoreList-auto-v.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-auto-v.html
+END
+test_SpinWheelDatePicker-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheelDatePicker-sv.html
+END
+test_bk_force-tablet-settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk_force-tablet-settings.html
+END
+test_domButtonsBadge.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_domButtonsBadge.html
+END
+test_RoundRectList-variable.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-variable.html
+END
+test_ListItem-domButtons.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ListItem-domButtons.html
+END
+test_ScrollableView-hv.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-hv.html
+END
+test_FixedSplitter-V2H2-change.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V2H2-change.html
+END
+test_ProgressBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressBar.html
+END
+test_i18n-sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_i18n-sync.html
+END
+test_SpinWheelDatePicker-setter.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheelDatePicker-setter.html
+END
+test_ScrollableView-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-demo.html
+END
+test_Opener-ColorPalette-lazy.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-ColorPalette-lazy.html
+END
+test_GridLayout-2cols.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_GridLayout-2cols.html
+END
+test_ScrollableView-v-vh-vf.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh-vf.html
+END
+test_GridLayout-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_GridLayout-demo.html
+END
+test_SwapView.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SwapView.html
+END
+test_bk-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-list.html
+END
+test_ScrollablePane-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollablePane-demo.html
+END
+test_transition-animations-extended2.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-extended2.html
+END
+test_IconContainer-single.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-single.html
+END
+test_EdgeToEdgeDataList-itemMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList-itemMap.html
+END
+test_bk-content-view.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_bk-content-view.html
+END
+test_FixedSplitter-orientation.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-orientation.html
+END
+test_grouped-scrollable-views.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_grouped-scrollable-views.html
+END
+test_pageTurningUtils-pageType.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_pageTurningUtils-pageType.html
+END
+test_Overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Overlay.html
+END
+test_IconContainer-connect.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-connect.html
+END
+test_FixedSplitter-V3-var0.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_FixedSplitter-V3-var0.html
+END
+test_SwapView-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SwapView-demo.html
+END
+test_anchor-label.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_anchor-label.html
+END
+test_Icon.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Icon.html
+END
+test_StoreCarousel-slideshow.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_StoreCarousel-slideshow.html
+END
+test_ajax-json.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ajax-json.html
+END
+test_EdgeToEdgeDataList-auto-v.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList-auto-v.html
+END
+test_dynamic-icons.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_dynamic-icons.html
+END
+test_RoundRectList-editable-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-editable-sv.html
+END
+test_ProgressIndicator-heading.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressIndicator-heading.html
+END
+test_ajax-html-sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ajax-html-sync.html
+END
+test_SearchBox-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SearchBox-demo.html
+END
+test_ScrollableView-hv-ah-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-hv-ah-af.html
+END
+test_ajax-json-sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ajax-json-sync.html
+END
+test_GridLayout-3cols.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_GridLayout-3cols.html
+END
+test_ScrollableView-v-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-inp.html
+END
+test_Video.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Video.html
+END
+test_ComboBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ComboBox.html
+END
+test_EdgeToEdgeDataList-more-sv.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeDataList-more-sv.html
+END
+test_ProgressIndicator-size.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressIndicator-size.html
+END
+test_scrollable-no-dojo-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_scrollable-no-dojo-af.html
+END
+test_dynamic-ScrollableView-ah-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_dynamic-ScrollableView-ah-af.html
+END
+test_ScrollablePane-h.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollablePane-h.html
+END
+test_ProgressIndicator-color.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressIndicator-color.html
+END
+test_RoundRectStoreList.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectStoreList.html
+END
+test_ScrollableView-v-vh-af.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh-af.html
+END
+test_Opener-RoundSelectList-async.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_Opener-RoundSelectList-async.html
+END
+test_ajax-html.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ajax-html.html
+END
+test_pageTurningUtils-add-remove.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_pageTurningUtils-add-remove.html
+END
+test_ValuePickerTimePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePickerTimePicker.html
+END
+test_IconContainer-pubsub.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-pubsub.html
+END
+test_ScrollableView-v-ah-inp.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-ah-inp.html
+END
+test_EdgeToEdgeCategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeCategory.html
+END
+test_TreeView.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TreeView.html
+END
+test_ScrollableView-v-vh.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScrollableView-v-vh.html
+END
+test_CarouselItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_CarouselItem.html
+END
+test_domButtons.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_domButtons.html
+END
+test_EdgeToEdgeStoreList-itemMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeStoreList-itemMap.html
+END
+test_SimpleDialog-large.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SimpleDialog-large.html
+END
+test_IconContainer-editable.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_IconContainer-editable.html
+END
+test_pageTurningUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_pageTurningUtils.html
+END
+test_SpinWheel-custom.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheel-custom.html
+END
+test_DataCarousel.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_DataCarousel.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/index.html
+END
+test_ScreenSizeAware-prop.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ScreenSizeAware-prop.html
+END
+test_EdgeToEdgeList-editable-a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_EdgeToEdgeList-editable-a11y.html
+END
+auto.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/auto.html
+END
+test_TabBar-seg-grouped.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_TabBar-seg-grouped.html
+END
+test_ValuePicker-1slot.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ValuePicker-1slot.html
+END
+test_ProgressIndicator-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_ProgressIndicator-list.html
+END
+test_RoundRectList-icons.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_RoundRectList-icons.html
+END
+test_SpinWheelTimePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_SpinWheelTimePicker.html
+END
+test_DatePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_DatePicker.html
+END
+test_transition-animations-extended4.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/tests/test_transition-animations-extended4.html
+END

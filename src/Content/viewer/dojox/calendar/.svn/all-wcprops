@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/damiengarbarino/dojo-calendar/!svn/ver/483/branches/dojo1.8
+END
+CalendarBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/damiengarbarino/dojo-calendar/!svn/ver/220/branches/dojo1.8/CalendarBase.js
+END
+ViewBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damiengarbarino/dojo-calendar/!svn/ver/227/branches/dojo1.8/ViewBase.js
+END
+ExpandRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/ExpandRenderer.js
+END
+LabelRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/LabelRenderer.js
+END
+_VerticalScrollBarBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/_VerticalScrollBarBase.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/damiengarbarino/dojo-calendar/!svn/ver/483/branches/dojo1.8/LICENSE
+END
+MobileHorizontalRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/MobileHorizontalRenderer.js
+END
+Calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/Calendar.js
+END
+_RendererMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/damiengarbarino/dojo-calendar/!svn/ver/220/branches/dojo1.8/_RendererMixin.js
+END
+HorizontalRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/HorizontalRenderer.js
+END
+Touch.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/damiengarbarino/dojo-calendar/!svn/ver/220/branches/dojo1.8/Touch.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/README
+END
+ColumnView.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/ColumnView.js
+END
+MobileVerticalRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/MobileVerticalRenderer.js
+END
+Mouse.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/Mouse.js
+END
+ColumnViewSecondarySheet.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/ColumnViewSecondarySheet.js
+END
+MonthColumnView.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/damiengarbarino/dojo-calendar/!svn/ver/262/branches/dojo1.8/MonthColumnView.js
+END
+time.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/damiengarbarino/dojo-calendar/!svn/ver/458/branches/dojo1.8/time.js
+END
+MatrixView.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damiengarbarino/dojo-calendar/!svn/ver/422/branches/dojo1.8/MatrixView.js
+END
+Keyboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/Keyboard.js
+END
+VerticalRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/VerticalRenderer.js
+END
+MobileCalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/MobileCalendar.js
+END
+StoreMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damiengarbarino/dojo-calendar/!svn/ver/253/branches/dojo1.8/StoreMixin.js
+END
+SimpleColumnView.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/damiengarbarino/dojo-calendar/!svn/ver/190/branches/dojo1.8/SimpleColumnView.js
+END

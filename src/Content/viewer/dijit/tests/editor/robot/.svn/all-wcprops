@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot
+END
+ToggleDir.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/ToggleDir.html
+END
+Editor_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_a11y.html
+END
+Editor_LinkDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_LinkDialog.html
+END
+BackForwardState.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/BackForwardState.html
+END
+Editor_FontChoice.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_FontChoice.html
+END
+CustomPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/CustomPlugin.html
+END
+EnterKeyHandling.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/EnterKeyHandling.html
+END
+Editor_NewPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_NewPage.html
+END
+Editor_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_mouse.html
+END
+Editor_IE8Compat.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_IE8Compat.html
+END
+ToggleDir_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/ToggleDir_rtl.html
+END
+Editor_misc.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_misc.html
+END
+Editor_ViewSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_ViewSource.html
+END
+TabIndent.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/TabIndent.html
+END
+Editor_FullScreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/robot/Editor_FullScreen.html
+END

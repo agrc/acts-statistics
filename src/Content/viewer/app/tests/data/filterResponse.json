@@ -1,0 +1,38 @@
+{
+    "displayFieldName": "Value",
+    "fieldAliases": {
+        "Code": "Code",
+        "Value": "Value"
+    },
+    "fields": [{
+        "name": "Code",
+        "type": "esriFieldTypeOID",
+        "alias": "Code"
+    }, {
+        "name": "Value",
+        "type": "esriFieldTypeString",
+        "alias": "Value",
+        "length": 8
+    }],
+    "features": [{
+        "attributes": {
+            "Code": 1,
+            "Value": "1996"
+        }
+    }, {
+        "attributes": {
+            "Code": 2,
+            "Value": "1997"
+        }
+    }, {
+        "attributes": {
+            "Code": 34,
+            "Value": "2029"
+        }
+    }, {
+        "attributes": {
+            "Code": 35,
+            "Value": "2030"
+        }
+    }]
+}

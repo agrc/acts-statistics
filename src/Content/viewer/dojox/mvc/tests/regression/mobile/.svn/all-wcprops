@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/mobile
+END
+test_mobile-list-multiple-sel-mvc.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/mobile/test_mobile-list-multiple-sel-mvc.html
+END
+test_Android-repeat-data-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/mobile/test_Android-repeat-data-store.html
+END
+test_mobile-list-single-sel-mvc.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/mobile/test_mobile-list-single-sel-mvc.html
+END
+test_iPhone-shipto-billto.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/mobile/test_iPhone-shipto-billto.html
+END

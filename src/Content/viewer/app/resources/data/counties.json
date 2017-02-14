@@ -1,0 +1,91 @@
+[{
+    "id": "-1",
+    "name": "All"
+}, {
+    "id": "01",
+    "name": "Beaver"
+}, {
+    "id": "02",
+    "name": "Box Elder"
+}, {
+    "id": "03",
+    "name": "Cache"
+}, {
+    "id": "04",
+    "name": "Carbon"
+}, {
+    "id": "05",
+    "name": "Daggett"
+}, {
+    "id": "06",
+    "name": "Davis"
+}, {
+    "id": "07",
+    "name": "Duchesne"
+}, {
+    "id": "08",
+    "name": "Emery"
+}, {
+    "id": "09",
+    "name": "Garfield"
+}, {
+    "id": "10",
+    "name": "Grand"
+}, {
+    "id": "11",
+    "name": "Iron"
+}, {
+    "id": "12",
+    "name": "Juab"
+}, {
+    "id": "13",
+    "name": "Kane"
+}, {
+    "id": "14",
+    "name": "Millard"
+}, {
+    "id": "15",
+    "name": "Morgan"
+}, {
+    "id": "16",
+    "name": "Piute"
+}, {
+    "id": "17",
+    "name": "Rich"
+}, {
+    "id": "18",
+    "name": "Salt Lake"
+}, {
+    "id": "19",
+    "name": "San Juan"
+}, {
+    "id": "20",
+    "name": "Sanpete"
+}, {
+    "id": "21",
+    "name": "Sevier"
+}, {
+    "id": "22",
+    "name": "Summit"
+}, {
+    "id": "23",
+    "name": "Tooele"
+}, {
+    "id": "24",
+    "name": "Uintah"
+}, {
+    "id": "25",
+    "name": "Utah"
+}, {
+    "id": "26",
+    "name": "Wasatch"
+}, {
+    "id": "27",
+    "name": "Washington"
+}, {
+    "id": "28",
+    "name": "Wayne"
+}, {
+    "id": "29",
+    "name": "Weber"
+}]

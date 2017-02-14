@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common
+END
+ValuePicker.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ValuePicker.less
+END
+TabBar-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TabBar-compat.less
+END
+ToolBarButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ToolBarButton-compat.less
+END
+domButtons.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/domButtons.css
+END
+Overlay.less
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Overlay.less
+END
+Switch-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Switch-compat.less
+END
+GridLayout.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/GridLayout.less
+END
+RoundRect-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RoundRect-compat.less
+END
+common.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/common.less
+END
+ComboBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ComboBox-compat.less
+END
+EdgeToEdgeCategory.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/EdgeToEdgeCategory.less
+END
+ValuePicker-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ValuePicker-compat.less
+END
+TabBar.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TabBar.less
+END
+Button-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Button-compat.less
+END
+TextBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TextBox.less
+END
+RoundRectList.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RoundRectList.less
+END
+PageTurning.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/PageTurning.css
+END
+View.less
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/View.less
+END
+ProgressBar-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ProgressBar-compat.less
+END
+Button.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Button.less
+END
+ToggleButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ToggleButton.less
+END
+TextArea.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TextArea.less
+END
+SearchBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/SearchBox.less
+END
+Slider.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Slider.less
+END
+ScrollablePane.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ScrollablePane.less
+END
+CheckBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/CheckBox.less
+END
+SimpleDialog-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/SimpleDialog-compat.less
+END
+ListItem.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ListItem.less
+END
+RadioButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RadioButton.less
+END
+ProgressIndicator.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ProgressIndicator.less
+END
+Accordion.less
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Accordion.less
+END
+Overlay-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Overlay-compat.less
+END
+Slider-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Slider-compat.less
+END
+CheckBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/CheckBox-compat.less
+END
+ComboBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ComboBox.less
+END
+PageIndicator.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/PageIndicator.less
+END
+ListItem-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ListItem-compat.less
+END
+RadioButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RadioButton-compat.less
+END
+IconMenu.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/IconMenu.less
+END
+TextBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TextBox-compat.less
+END
+Heading-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Heading-compat.less
+END
+RoundRectList-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RoundRectList-compat.less
+END
+EdgeToEdgeList.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/EdgeToEdgeList.less
+END
+Tooltip.less
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Tooltip.less
+END
+ToggleButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ToggleButton-compat.less
+END
+TextArea-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/TextArea-compat.less
+END
+SpinWheel.less
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/SpinWheel.less
+END
+Heading.less
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Heading.less
+END
+transitions.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/transitions.css
+END
+Switch.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Switch.less
+END
+RoundRectCategory.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RoundRectCategory.less
+END
+RoundRect.less
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/RoundRect.less
+END
+common-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/common-compat.less
+END
+Tooltip-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Tooltip-compat.less
+END
+IconContainer-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/IconContainer-compat.less
+END
+Carousel.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Carousel.less
+END
+SpinWheel-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/SpinWheel-compat.less
+END
+Accordion-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/Accordion-compat.less
+END
+ProgressIndicator-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ProgressIndicator-compat.less
+END
+IconContainer_keyframes.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/IconContainer_keyframes.css
+END
+FixedSplitter.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/FixedSplitter.less
+END
+ProgressBar.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ProgressBar.less
+END
+IconContainer.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/IconContainer.less
+END
+ToolBarButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/ToolBarButton.less
+END
+IconMenu-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/IconMenu-compat.less
+END
+compile.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/compile.js
+END
+domButtons-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/domButtons-compat.css
+END
+SimpleDialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/common/SimpleDialog.less
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins
+END
+AlwaysShowToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/AlwaysShowToolbar.js
+END
+NewPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/NewPage.js
+END
+TabIndent.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/TabIndent.js
+END
+EnterKeyHandling.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/EnterKeyHandling.js
+END
+ViewSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/ViewSource.js
+END
+Print.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/Print.js
+END
+LinkDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/LinkDialog.js
+END
+ToggleDir.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/ToggleDir.js
+END
+FontChoice.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/FontChoice.js
+END
+FullScreen.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/FullScreen.js
+END
+TextColor.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_editor/plugins/TextColor.js
+END

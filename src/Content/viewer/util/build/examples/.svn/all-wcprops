@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples
+END
+simple1.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/simple1.profile.js
+END
+relative-base-path.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/relative-base-path.profile.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/require.js
+END
+dojo-base-json-dot.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/dojo-base-json-dot.profile.js
+END
+profile-with-code.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/profile-with-code.profile.js
+END
+trees-dirs-files.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/trees-dirs-files.profile.js
+END
+dojoConfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/examples/dojoConfig.js
+END

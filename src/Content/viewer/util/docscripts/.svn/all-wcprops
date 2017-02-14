@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts
+END
+generate.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/generate.php
+END
+parsefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/parsefile.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/LICENSE
+END
+_browse_tree.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/_browse_tree.php
+END
+dumpObj.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/dumpObj.php
+END
+makeCix.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/makeCix.php
+END
+preview.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/preview.php
+END
+cheat.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/cheat.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30224/tags/release-1.8.3/util/docscripts/README
+END

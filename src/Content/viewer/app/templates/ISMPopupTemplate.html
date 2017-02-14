@@ -1,0 +1,13 @@
+<div class="contract-popup">
+    <h3>{{projectName}}</h3>
+    <b>Project Description</b>
+    <p>{{projectDescription}}</p>
+    <div><b>Project Area: </b>{{projectArea}}</div>
+    <div><b>Project Status: </b>{{contractStatus}}</div>
+    <b>Source of Funds</b>
+    <ul>
+        {{#contributors}}
+        <li>{{name}} <span class="right">{{amount}}</span></li>
+        {{/contributors}}
+    </ul>
+</div>

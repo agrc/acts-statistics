@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests/_base.js
+END
+Palette.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests/Palette.js
+END
+color.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests/color.js
+END
+ColorModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests/ColorModel.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/color/tests/runTests.html
+END

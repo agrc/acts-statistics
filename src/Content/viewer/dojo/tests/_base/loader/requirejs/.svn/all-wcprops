@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs
+END
+circular-tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/circular-tests.js
+END
+dataMain.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/dataMain.html
+END
+requirejs-setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/requirejs-setup.js
+END
+foo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/foo
+END
+two.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/two.js
+END
+dimple.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/dimple.js
+END
+simple-nohead.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/simple-nohead.html
+END
+map.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/map.js
+END
+tres.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/tres.js
+END
+dataMain.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/dataMain.js
+END
+one.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/one.js
+END
+simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/simple.html
+END
+funcThree.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/funcThree.js
+END
+funcTwo.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/funcTwo.js
+END
+dos.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/dos.js
+END
+funcFour.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/funcFour.js
+END
+depoverlap.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/depoverlap.html
+END
+bar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/bar
+END
+simple.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/simple.js
+END
+simple-tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/simple-tests.js
+END
+func.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/func.js
+END
+circular.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/circular.html
+END
+funcOne.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/funcOne.js
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/config.html
+END
+simple-badbase.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/simple-badbase.html
+END
+uno.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/uno.js
+END
+depoverlap.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/depoverlap.js
+END

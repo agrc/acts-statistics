@@ -1,0 +1,79 @@
+[{
+    "attributes": {
+        "id": "{0D6BA1FD-E0A8-46D4-8666-E1AFE4700AAE}",
+        "n": "Casey Allred Salinity FY10",
+        "t": 1,
+        "c": "08, 09, 10",
+        "y": 15,
+        "OBJECTID": 1117
+    },
+    "geometry": {
+        "x": 515323.1799999997,
+        "y": 4353830.0199999996
+    }
+}, {
+    "attributes": {
+        "id": "{7872CC79-85F5-4A48-BC30-5F889F40BFDD}",
+        "n": "Mark Stewart FY10",
+        "t": 1,
+        "c": "Duchesne",
+        "y": 15,
+        "OBJECTID": 1118
+    },
+    "geometry": {
+        "x": 582520.70000000019,
+        "y": 4463196.9900000002
+    }
+}, {
+    "attributes": {
+        "id": "{244A35E3-C226-4126-89E4-486FC15459A1}",
+        "n": "David Law FY10",
+        "t": 1,
+        "c": "Duchesne",
+        "y": 15,
+        "OBJECTID": 1119
+    },
+    "geometry": {
+        "x": 582543.83999999985,
+        "y": 4463016.7100000009
+    }
+}, {
+    "attributes": {
+        "id": "{0B55B83A-88C5-4C85-BDAC-AD8210DA984D}",
+        "n": "Randy Oveson FY08",
+        "t": 1,
+        "c": "Emery",
+        "y": 13,
+        "OBJECTID": 1120
+    },
+    "geometry": {
+        "x": 513133.16000000015,
+        "y": 4359212.4900000002
+    }
+}, {
+    "attributes": {
+        "id": "{C591AA3A-28C3-4F76-B986-A06938EA0237}",
+        "n": "Bob Slogowski Irrigation Project FY09",
+        "t": 1,
+        "c": "",
+        "y": 14,
+        "OBJECTID": 1121
+    },
+    "geometry": {
+        "x": 611424.04999999981,
+        "y": 4540086.25
+    }
+}, {
+    "attributes": {
+        "id": "{23C3FE8E-9E72-4B15-A2C5-80951F385AF1}",
+        "n": "Venice Golden FY08",
+        "t": 1,
+        "c": "Emery",
+        "y": 13,
+        "OBJECTID": 1122
+    },
+    "geometry": {
+        "x": 516362.95999999996,
+        "y": 4360365.7200000007
+    }
+}]

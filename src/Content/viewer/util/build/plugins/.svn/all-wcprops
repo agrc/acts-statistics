@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins
+END
+domReady.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/domReady.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/text.js
+END
+querySelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/querySelector.js
+END
+has.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/has.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/require.js
+END
+i18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/i18n.js
+END
+loadInit.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30224/tags/release-1.8.3/util/build/plugins/loadInit.js
+END

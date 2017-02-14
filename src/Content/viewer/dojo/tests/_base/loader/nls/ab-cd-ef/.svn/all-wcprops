@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/nls/ab-cd-ef
+END
+syncBundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/nls/ab-cd-ef/syncBundle.js
+END
+amdBundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/nls/ab-cd-ef/amdBundle.js
+END

@@ -1,0 +1,30 @@
+<div>
+    <div data-dojo-attach-point='mainContainer' class='main-container' data-dojo-type='dijit.layout.BorderContainer'>
+        <div class='title-pane' data-dojo-type='dijit.layout.ContentPane' data-dojo-props="region: 'top'">
+            <h1>
+                <span class='title'>Agriculture Conservation Projects</span>
+                <a data-dojo-attach-point='version' class='version' href='changelog/public'></a>
+            </h1>
+            <a href='http://ag.utah.gov/' target='_blank'><img src="Content/viewer/app/resources/images/UDAF_logo.jpg" alt="UDAF Logo"></a>
+        </div>
+        <div data-dojo-attach-point='centerContainer' data-dojo-type='dijit/layout/BorderContainer' data-dojo-props="region: 'center'">
+            <div data-dojo-type="dijit/layout/ContentPane" data-dojo-props='region: "center"' class='center-container'>
+                <div data-dojo-attach-point='mapDiv' class='map-div'></div>
+            </div>
+            <div data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region: 'bottom'" class='bottom-container'>
+                <div data-dojo-attach-point="grid" data-dojo-type='app/Grid'></div>
+            </div>
+        </div>
+        <div data-dojo-attach-point="rightContainer" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region: 'right'">
+            <div class="filters-container">
+                <b>Filter By:</b><br>
+                <div data-dojo-attach-point="yearFilter"></div>
+                <div data-dojo-attach-point="typeFilter"></div>
+                <div data-dojo-attach-point="countyFilter"></div>
+            </div>
+            <hr>
+            <span data-dojo-attach-point="clickTxt">Click on a project to access more information...</span>
+            <div data-dojo-attach-point="projectInfo"></div>
+        </div>
+    </div>
+</div>

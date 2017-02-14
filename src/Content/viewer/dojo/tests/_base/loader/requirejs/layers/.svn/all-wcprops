@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers
+END
+allplugins-text.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/allplugins-text.html
+END
+layers.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/layers.html
+END
+epsilon.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/epsilon.js
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/build.sh
+END
+layer1.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/layer1.js
+END
+helloWorld.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/requirejs/layers/helloWorld.txt
+END

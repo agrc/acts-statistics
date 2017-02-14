@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/wire/tests
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/wire/tests/module.js
+END
+wire.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/wire/tests/wire.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/wire/tests/runTests.html
+END
+wireml.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/wire/tests/wireml.js
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules
+END
+factoryArityExports.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/factoryArityExports.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/data.js
+END
+anon.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/anon.js
+END
+idFactoryArity.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/idFactoryArity.js
+END
+impliedDep1.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/impliedDep1.js
+END
+impliedDep2.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/impliedDep2.js
+END
+impliedDep3.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/impliedDep3.js
+END
+factoryArity.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/factoryArity.js
+END
+impliedDep4.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/impliedDep4.js
+END
+full.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/full.js
+END
+idFactoryArityExports.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/idFactoryArityExports.js
+END
+wrapped.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/modules/wrapped.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/widgets
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/widgets/module.js
+END
+MenuItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/widgets/MenuItem.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/widgets/runTests.html
+END
+Tooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/widgets/Tooltip.html
+END

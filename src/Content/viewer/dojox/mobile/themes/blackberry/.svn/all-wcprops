@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry
+END
+ValuePicker.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ValuePicker.less
+END
+TabBar-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TabBar-compat.less
+END
+Switch-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Switch-compat.less
+END
+GridLayout.less
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/GridLayout.less
+END
+RoundRect-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRect-compat.less
+END
+ComboBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ComboBox-compat.less
+END
+EdgeToEdgeCategory.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/EdgeToEdgeCategory.less
+END
+ValuePicker-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ValuePicker-compat.less
+END
+TabBar.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TabBar.less
+END
+SimpleDialog.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SimpleDialog.css
+END
+View.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/View.css
+END
+Button-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Button-compat.less
+END
+IconContainer-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconContainer-compat.css
+END
+SearchBox.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SearchBox.css
+END
+Overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Overlay.css
+END
+CheckBox.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/CheckBox.css
+END
+Opener.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Opener.css
+END
+ProgressBar-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressBar-compat.less
+END
+Button.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Button.less
+END
+SimpleDialog-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SimpleDialog-compat.css
+END
+ToggleButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToggleButton.less
+END
+SearchBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SearchBox.less
+END
+Slider.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Slider.less
+END
+RoundRectList.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectList.css
+END
+Overlay-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Overlay-compat.css
+END
+CheckBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/CheckBox.less
+END
+ListItem.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ListItem.less
+END
+RadioButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RadioButton.less
+END
+TabBar-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TabBar-compat.css
+END
+ToggleButton.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToggleButton.css
+END
+TextBox-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextBox-compat.css
+END
+SpinWheel-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SpinWheel-compat.css
+END
+ProgressIndicator.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressIndicator.less
+END
+Slider-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Slider-compat.less
+END
+RoundRectList-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectList-compat.css
+END
+variables.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/variables.less
+END
+common.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/common.css
+END
+ListItem-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ListItem-compat.less
+END
+RadioButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RadioButton-compat.less
+END
+base-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/base-compat.css
+END
+IconContainer.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconContainer.css
+END
+IconMenu.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconMenu.less
+END
+TextBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextBox-compat.less
+END
+Button-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Button-compat.css
+END
+TextArea-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextArea-compat.css
+END
+Heading-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Heading-compat.less
+END
+Accordion.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Accordion.css
+END
+Tooltip.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Tooltip.less
+END
+Opener-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Opener-compat.css
+END
+PageIndicator.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/PageIndicator.css
+END
+base.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/base.css
+END
+TextArea-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextArea-compat.less
+END
+IconMenu.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconMenu.css
+END
+ToolBarButton-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToolBarButton-compat.css
+END
+blackberry.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/blackberry.css
+END
+RoundRectCategory.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectCategory.less
+END
+Accordion-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Accordion-compat.css
+END
+RoundRect.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRect.less
+END
+GridLayout.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/GridLayout.css
+END
+FixedSplitter.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/FixedSplitter.css
+END
+Tooltip-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Tooltip-compat.less
+END
+PageIndicator-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/PageIndicator-compat.css
+END
+ValuePicker-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ValuePicker-compat.css
+END
+Carousel.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Carousel.less
+END
+TabBar.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TabBar.css
+END
+SpinWheel-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SpinWheel-compat.less
+END
+ProgressIndicator-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressIndicator-compat.less
+END
+Switch.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Switch.css
+END
+FixedSplitter.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/FixedSplitter.less
+END
+RoundRect.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRect.css
+END
+ComboBox.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ComboBox.css
+END
+common-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/common-compat.css
+END
+ValuePicker.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ValuePicker.css
+END
+DatePicker.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/DatePicker.css
+END
+Button.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Button.css
+END
+Carousel.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Carousel.css
+END
+Switch-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Switch-compat.css
+END
+RoundRectCategory-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectCategory-compat.css
+END
+SimpleDialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SimpleDialog.less
+END
+EdgeToEdgeList.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/EdgeToEdgeList.css
+END
+ProgressBar.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressBar.css
+END
+EdgeToEdgeCategory.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/EdgeToEdgeCategory.css
+END
+ToolBarButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToolBarButton-compat.less
+END
+Overlay.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Overlay.less
+END
+blackberry-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/blackberry-compat.css
+END
+Slider-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Slider-compat.css
+END
+common.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/common.less
+END
+CheckBox-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/CheckBox-compat.css
+END
+ProgressBar-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressBar-compat.css
+END
+TextBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextBox.less
+END
+ListItem-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ListItem-compat.css
+END
+RadioButton-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RadioButton-compat.css
+END
+RoundRectList.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectList.less
+END
+Slider.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Slider.css
+END
+ScrollablePane.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ScrollablePane.css
+END
+View.less
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/View.less
+END
+ComboBox-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ComboBox-compat.css
+END
+ListItem.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ListItem.css
+END
+RadioButton.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RadioButton.css
+END
+TextArea.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextArea.less
+END
+TextBox.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextBox.css
+END
+Heading.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Heading.css
+END
+RoundRectCategory.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectCategory.css
+END
+ScrollablePane.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ScrollablePane.less
+END
+SimpleDialog-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SimpleDialog-compat.less
+END
+Tooltip-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Tooltip-compat.css
+END
+TextArea.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TextArea.css
+END
+Accordion.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Accordion.less
+END
+Overlay-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Overlay-compat.less
+END
+CheckBox-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/CheckBox-compat.less
+END
+ComboBox.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ComboBox.less
+END
+PageIndicator.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/PageIndicator.less
+END
+Tooltip.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Tooltip.css
+END
+ToggleButton-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToggleButton-compat.css
+END
+SpinWheel.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SpinWheel.css
+END
+RoundRectList-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRectList-compat.less
+END
+ProgressIndicator.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressIndicator.css
+END
+EdgeToEdgeList.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/EdgeToEdgeList.less
+END
+ToggleButton-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToggleButton-compat.less
+END
+SpinWheel.less
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/SpinWheel.less
+END
+Heading.less
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Heading.less
+END
+Switch.less
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Switch.less
+END
+ProgressIndicator-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressIndicator-compat.css
+END
+common-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/common-compat.less
+END
+IconContainer-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconContainer-compat.less
+END
+TimePicker.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/TimePicker.css
+END
+IconMenu-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconMenu-compat.css
+END
+ToolBarButton.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToolBarButton.css
+END
+Accordion-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Accordion-compat.less
+END
+ProgressBar.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ProgressBar.less
+END
+IconContainer.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconContainer.less
+END
+ToolBarButton.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/ToolBarButton.less
+END
+IconMenu-compat.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/IconMenu-compat.less
+END
+Heading-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/Heading-compat.css
+END
+RoundRect-compat.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mobile/themes/blackberry/RoundRect-compat.css
+END

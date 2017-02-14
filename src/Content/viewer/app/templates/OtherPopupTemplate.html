@@ -1,0 +1,31 @@
+<div class="contract-popup">
+    <h3>{{projectName}}</h3>
+    {{#projectOutcome}}
+    <b>Project Outcomes</b>
+    <p>{{projectOutcome}}</p>
+    {{/projectOutcome}}
+    {{#practicesLabel}}
+    <b>{{practicesLabel}}</b>
+    <ul>
+        {{#practicesInstalled}}
+        <li>{{.}}</li>
+        {{/practicesInstalled}}
+    </ul>
+    {{/practicesLabel}}
+    <b>Project Description</b>
+    <p>{{projectDescription}}</p>
+    <div><b>Affected Area: </b>{{affectedArea}}</div>
+    <div><b>Project Status: </b>{{contractStatus}}</div>
+    <div>
+        <b>Contract Type(s): </b>
+        <div class="list-container">
+            {{#contractTypes}}<span> {{.}}</span>{{/contractTypes}}
+        </div>
+    </div>
+    <b>Source of Funds</b>
+    <ul>
+        {{#contributors}}
+        <li>{{name}} <span class="right">{{amount}}</span></li>
+        {{/contributors}}
+    </ul>
+</div>

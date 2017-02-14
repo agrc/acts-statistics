@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot
+END
+InlineEditBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot/InlineEditBox.html
+END
+Textarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot/Textarea.html
+END
+TextBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot/TextBoxes.html
+END
+SimpleTextarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot/SimpleTextarea.html
+END
+SimpleComboBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/form/robot/SimpleComboBoxes.html
+END

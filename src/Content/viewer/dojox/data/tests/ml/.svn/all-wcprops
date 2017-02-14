@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml
+END
+divList.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/divList.html
+END
+orderedList.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/orderedList.html
+END
+test_HtmlTableStore_declaratively.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/test_HtmlTableStore_declaratively.html
+END
+unorderedList.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/unorderedList.html
+END
+table.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/table.html
+END
+test_HtmlStore_declaratively.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/test_HtmlStore_declaratively.html
+END
+test_HtmlStore_remote.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/data/tests/ml/test_HtmlStore_remote.html
+END

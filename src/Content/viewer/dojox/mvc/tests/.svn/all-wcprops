@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests
+END
+doh_mvc_loan-stateful.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_loan-stateful.html
+END
+test_mvc_simple-programmatic.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_simple-programmatic.html
+END
+doh_mvc_search-results-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_search-results-repeat.html
+END
+test_async-mvc_repeat-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_async-mvc_repeat-simple.html
+END
+doh_mvc_new_shipto-billto-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_new_shipto-billto-simple.html
+END
+moduleFullSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/moduleFullSet.js
+END
+doh_mvc_programmatic-repeat-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_programmatic-repeat-store.html
+END
+test_mvc_new_shipto-billto-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new_shipto-billto-simple.html
+END
+test_mvc_new-ref-set-repeat-nostateful.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new-ref-set-repeat-nostateful.html
+END
+test_mvc_new_bindings-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new_bindings-simple.html
+END
+doh_mvc_performance_search-results-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_performance_search-results-repeat.html
+END
+test_mvc_new-data-replace-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new-data-replace-simple.html
+END
+test_WidgetList_childBindings.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_WidgetList_childBindings.json
+END
+StoreRefControllerTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/StoreRefControllerTest.js
+END
+mvc_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/mvc_index.html
+END
+test_mvc_search-results-repeat-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_search-results-repeat-store.html
+END
+test_mvc_search-results-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_search-results-repeat.html
+END
+test_mvc_new-ref-set-replace-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new-ref-set-replace-repeat.html
+END
+WidgetList.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/WidgetList.js
+END
+test_mvc_new_form-kitchensink.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new_form-kitchensink.html
+END
+_Controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/_Controller.js
+END
+doh_mvc_new_ref-set-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_new_ref-set-repeat.html
+END
+doh_mvc_validation-test-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_validation-test-simple.html
+END
+test_mvc_programmatic-repeat-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_programmatic-repeat-store.html
+END
+equals.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/equals.js
+END
+test_mvc_new_label_and_totals.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new_label_and_totals.html
+END
+test_mvc_new-ref-set-repeat-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new-ref-set-repeat-simple.html
+END
+doh_mvc_template_repeat_exprchar.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_template_repeat_exprchar.html
+END
+test_mvc_shipto-billto-hierarchical.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_shipto-billto-hierarchical.html
+END
+doh_async_mvc_14491-input-output.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_async_mvc_14491-input-output.html
+END
+doh_mvc_search-results-repeat-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_search-results-repeat-store.html
+END
+test_WidgetList_childTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_WidgetList_childTemplate.html
+END
+doh_new-mvc_label_and_totals.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_new-mvc_label_and_totals.html
+END
+test_WidgetList.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_WidgetList.html
+END
+test_new-mvc_input-output-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_new-mvc_input-output-simple.html
+END
+test_mvc_repeat_select.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_repeat_select.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/runTests.html
+END
+doh_mvc_mobile-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_mobile-demo.html
+END
+doh_mvc_sync-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_sync-test.html
+END
+StatefulModelOptions.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/StatefulModelOptions.js
+END
+test_mvc_Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_Element.html
+END
+StatefulArray.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/StatefulArray.js
+END
+test_mvc_generate-view-store.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_generate-view-store.html
+END
+test_WidgetList_WidgetListInTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_WidgetList_WidgetListInTemplate.html
+END
+test_mvc_search-results-ins-del.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_search-results-ins-del.html
+END
+wildcard.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/wildcard.js
+END
+test_async-mvc_group-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_async-mvc_group-simple.html
+END
+test_async-mvc_input-output-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_async-mvc_input-output-simple.html
+END
+doh_mvc_zero-value-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_zero-value-test.html
+END
+test_mvc_generate-view.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_generate-view.html
+END
+doh_new-mvc_input-output-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_new-mvc_input-output-simple.html
+END
+doh_mvc_repeat_select_cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_repeat_select_cancel.html
+END
+test_mvc_observable-search-results-ins-del.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_observable-search-results-ins-del.html
+END
+doh_mvc_DOMNode_shipto-billto-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_DOMNode_shipto-billto-simple.html
+END
+runTestsFullSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/runTestsFullSet.html
+END
+test_mvc_repeat_select_cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_repeat_select_cancel.html
+END
+test_mvc_input-output-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_input-output-simple.html
+END
+doh_mvc_repeat_select_manualsave.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_repeat_select_manualsave.html
+END
+test_mvc_new_loan-stateful.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_new_loan-stateful.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/module.js
+END
+test_mvc_repeat_select_manualsave.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_repeat_select_manualsave.html
+END
+doh_mvc_ref-template-13263.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_ref-template-13263.html
+END
+doh_mvc_binding-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_binding-simple.html
+END
+doh_mvc_DOMNode-search-results-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_DOMNode-search-results-repeat.html
+END
+doh_mvc_shipto-billto-hierarchical.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_shipto-billto-hierarchical.html
+END
+test_mvc_HTML5Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/test_mvc_HTML5Element.html
+END
+ModelRefController.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/ModelRefController.js
+END
+helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/helpers.js
+END
+doh_mvc_form-kitchensink.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_form-kitchensink.html
+END
+doh_mvc_date_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/doh_mvc_date_test.html
+END

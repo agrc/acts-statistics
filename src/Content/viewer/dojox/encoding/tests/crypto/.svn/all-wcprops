@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto
+END
+RSA.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto/RSA.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto/_base.js
+END
+Blowfish.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto/Blowfish.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto/runTests.html
+END
+SimpleAES.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/encoding/tests/crypto/SimpleAES.js
+END

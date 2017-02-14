@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/30224/tags/release-1.8.3/util/buildscripts/zoneinfo
+END
+tzdata2009k.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30224/tags/release-1.8.3/util/buildscripts/zoneinfo/tzdata2009k.tar.gz
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30224/tags/release-1.8.3/util/buildscripts/zoneinfo/LICENSE
+END
+strip_olson_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30224/tags/release-1.8.3/util/buildscripts/zoneinfo/strip_olson_comments.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30224/tags/release-1.8.3/util/buildscripts/zoneinfo/README
+END

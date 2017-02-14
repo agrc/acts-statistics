@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/config
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/config/test.html
+END
+someModule.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/config/someModule.js
+END
+someModuleConfiggedPriorToBoot.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/config/someModuleConfiggedPriorToBoot.js
+END

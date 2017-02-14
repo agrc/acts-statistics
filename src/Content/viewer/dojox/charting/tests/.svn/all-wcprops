@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests
+END
+test_stacked.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_stacked.html
+END
+test_fillstroke.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_fillstroke.html
+END
+test_label_shortening.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_label_shortening.html
+END
+test_pie2d_zeroslice.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_pie2d_zeroslice.html
+END
+test_chart2d_updating.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chart2d_updating.html
+END
+test_pie_smart_label.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_pie_smart_label.html
+END
+test_win2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_win2d.html
+END
+test_grid.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_grid.html
+END
+test_shadow.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_shadow.html
+END
+test_dropLabels.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_dropLabels.html
+END
+test_bars.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_bars.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/runTests.html
+END
+test_spidersingle.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_spidersingle.html
+END
+test_labels2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_labels2d.html
+END
+test_pie_omitLabels.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_pie_omitLabels.html
+END
+stock.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/stock.json
+END
+test_nulls.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_nulls.html
+END
+test_axisoffsets.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_axisoffsets.html
+END
+test_legend.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_legend.html
+END
+test_chartTitle.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chartTitle.html
+END
+theme_preview-amd.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/theme_preview-amd.html
+END
+theme_preview.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/theme_preview.html
+END
+charting.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/charting.js
+END
+test_touchZoomAndPan.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_touchZoomAndPan.html
+END
+test_pie2d_5050.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_pie2d_5050.html
+END
+test_chart2d_dynamics.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chart2d_dynamics.html
+END
+test_mouseZoomAndPan.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_mouseZoomAndPan.html
+END
+test_tension.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_tension.html
+END
+test_touchIndicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_touchIndicator.html
+END
+test_selectableLegend.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_selectableLegend.html
+END
+test_DataSeries.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_DataSeries.html
+END
+test_themes-amd.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_themes-amd.html
+END
+test_rotatedLabels.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_rotatedLabels.html
+END
+test_mouseIndicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_mouseIndicator.html
+END
+test_series_order.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_series_order.html
+END
+test_themes.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_themes.html
+END
+test_chart2d-amd.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chart2d-amd.html
+END
+test_chart2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chart2d.html
+END
+test_fireEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_fireEvent.html
+END
+test_chartAxisTitle.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chartAxisTitle.html
+END
+test_widget2d_deprecated.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_widget2d_deprecated.html
+END
+test_chartingsize.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_chartingsize.html
+END
+test_DataChart.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_DataChart.html
+END
+test_cylinders.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_cylinders.html
+END
+test_itemcolor.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_itemcolor.html
+END
+test_axes.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_axes.html
+END
+test_pie2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_pie2d.html
+END
+test_missingPoints.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_missingPoints.html
+END
+test_StoreSeries-amd.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_StoreSeries-amd.html
+END
+test_event2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_event2d.html
+END
+test_StoreSeries.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_StoreSeries.html
+END
+test_mouseIndicator2.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_mouseIndicator2.html
+END
+test_widget2d-amd.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_widget2d-amd.html
+END
+test_plot_order.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_plot_order.html
+END
+test_scaler.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_scaler.html
+END
+test_widget2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_widget2d.html
+END
+test_anim2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_anim2d.html
+END
+test_axisZoomControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_axisZoomControl.html
+END
+Theme.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/Theme.js
+END
+test_sparklines.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_sparklines.html
+END
+test_spider2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/test_spider2d.html
+END

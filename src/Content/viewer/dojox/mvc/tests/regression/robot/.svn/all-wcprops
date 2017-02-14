@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot
+END
+moduleFullSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/moduleFullSet.js
+END
+mvc_search-results-ins-del.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_search-results-ins-del.html
+END
+mvc_loan-stateful.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_loan-stateful.html
+END
+mvc_shipto-billto-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_shipto-billto-simple.html
+END
+mobile-demo-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mobile-demo-test.html
+END
+runTestsFullSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/runTestsFullSet.html
+END
+android_repeat-ins.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/android_repeat-ins.html
+END
+mvc_generate-view.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_generate-view.html
+END
+mvc_search-results-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_search-results-repeat.html
+END
+mvc_ref-set-repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_ref-set-repeat.html
+END
+mvc_shipto-billto-hierarchical.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/mvc_shipto-billto-hierarchical.html
+END
+iphone_shipto-billto.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mvc/tests/regression/robot/iphone_shipto-billto.html
+END

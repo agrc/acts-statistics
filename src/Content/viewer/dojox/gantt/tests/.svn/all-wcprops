@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/gantt/tests
+END
+test_Gantt.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/gantt/tests/test_Gantt.html
+END
+saveGanttData.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/gantt/tests/saveGanttData.php
+END

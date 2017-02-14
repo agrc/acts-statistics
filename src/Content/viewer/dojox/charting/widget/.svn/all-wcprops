@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget
+END
+BidiSupport.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/BidiSupport.js
+END
+Chart2D.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/Chart2D.js
+END
+Sparkline.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/Sparkline.js
+END
+Legend.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/Legend.js
+END
+Chart.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/Chart.js
+END
+SelectableLegend.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/widget/SelectableLegend.js
+END

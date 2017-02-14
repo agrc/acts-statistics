@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ACTS Statistics Viewer</title>
+
+    <!-- META TAGS -->
+    <meta charset='utf-8'>
+    <link rel="shortcut icon" href="http://mapserv.utah.gov/cdn/images/favicon.ico" />
+
+    <!-- CSS -->
+    <link rel='stylesheet' href='http://serverapi.arcgisonline.com/jsapi/arcgis/3.4/js/dojo/dijit/themes/claro/claro.css'>
+    <link rel="stylesheet" type="text/css" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.4/js/esri/css/esri.css" />
+    <link rel='stylesheet' href='Content/viewer/app/resources/App.css'>
+</head>
+<body class='claro'>
+    <div data-dojo-type='app/App'></div>
+    <div data-dojo-type="dijit/Dialog" id="gipPopupDialog" title='GIP Projects' style='display: none'>
+        <div class="dijitDialogPaneContentArea">All GIP projects are designed to improve land ecology and to increase the economic production of Utah's cattle, sheep and wildlife operations. Utah's livestock industry represents a significant percentage of the state's $17.5 billion dollar agricultural production and processing industry. Utah agriculture also generates more than 78,000 jobs and is a source of safe, high quality and affordable local food.</div>
+        <div class="dijitDialogPaneActionBar">
+            <button data-dojo-type="dijit.form.Button" type="submit" id="ok">OK</button>
+        </div>
+    </div>
+
+    <!-- JAVASCRIPT -->
+    <script data-dojo-config="isDebug: 1, tlmSiblingOfDojo: 1" src='http://serverapi.arcgisonline.com/jsapi/arcgis/3.4/' defer></script>
+    <script src='Content/viewer/app/nls/run_en-us.js' defer></script> <!-- for built version -->
+    <script src='Content/viewer/app/run.js' defer></script>
+
+    <!-- GOOGLE ANALYTICS -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-11849964-45', 'utah.gov');
+      ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

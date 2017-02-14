@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot
+END
+AccordionContainer_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/AccordionContainer_mouse.html
+END
+AccordionContainer_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/AccordionContainer_a11y.html
+END
+BorderContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/BorderContainer.html
+END
+TabContainer_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/TabContainer_mouse.html
+END
+borderContainerTestFunctions.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/borderContainerTestFunctions.js
+END
+BorderContainer_full.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/BorderContainer_full.html
+END
+BorderContainer_nested.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/BorderContainer_nested.html
+END
+TabContainer_noLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/TabContainer_noLayout.html
+END
+GUI.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/GUI.html
+END
+TabContainer_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/TabContainer_a11y.html
+END
+BorderContainer_complex.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/layout/robot/BorderContainer_complex.html
+END

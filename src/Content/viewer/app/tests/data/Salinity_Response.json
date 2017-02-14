@@ -1,0 +1,45 @@
+{
+    "projectName": "Joe McNeel HCIC FY07",
+    "projectType": "Basin States Salinity Control Program",
+    "contractNumbers": [
+        71882,
+        78123
+    ],
+    "projectArea": "14.99 acres",
+    "amountOnContract": "$19,742.00",
+    "amountOfContractPaid": "$19,742.00",
+    "contractTypes": [
+        "Salinity" 
+    ],
+    "contractStatus": "Completed",
+    "practicesInstalled": [
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - 4\" 125 psi",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Bedding Material",
+        "Irrigation Water Conveyance, Pipeline, Low-pressure, Underground, Plastic - Bedding Material",
+        "Irrigation Water Conveyance, Pipeline, Nonreinforced Concrete - Bedding Material",
+        "Irrigation Water Conveyance, Pipeline, Steel - Bedding Material",
+        "Irrigation Water Conveyance, Rigid Gated Pipeline - Bedding Material",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Butterfly Valve Assembly 4\"",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Flow Meter - 4\", Meter Only",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - HDPE - All Other Diameters and psi Ratings",
+        "Pipeline - HDPE - All Other Diameters and psi Ratings",
+        "Irrigation Water Conveyance, Pipeline, Low-pressure, Underground, Plastic - HDPE Corrugated, Ribbed or Profile Wall Thermoplastic Pipe, All Diameters",
+        "Irrigation Water Management - Irrigation Water Management (includes recordkeeping and workshop attendance - not to exceed 3 years)",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Pipeline Installation - Abnormal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Low-pressure, Underground, Plastic - Pipeline Installation - Abnormal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Nonreinforced Concrete - Pipeline Installation - Abnormal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Steel - Pipeline Installation - Abnormal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Rigid Gated Pipeline - Pipeline Installation - Abnormal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Pipeline Installation - Normal, > 12\", &le; 18\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Low-pressure, Underground, Plastic - Pipeline Installation - Normal, > 12\", &le; 18\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Nonreinforced Concrete - Pipeline Installation - Normal, > 12\", &le; 18\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Steel - Pipeline Installation - Normal, > 12\", &le; 18\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Rigid Gated Pipeline - Pipeline Installation - Normal, > 12\", &le; 18\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, High-pressure, Underground, Plastic - Pipeline Installation - Normal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Low-pressure, Underground, Plastic - Pipeline Installation - Normal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Nonreinforced Concrete - Pipeline Installation - Normal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Pipeline, Steel - Pipeline Installation - Normal, &le; 4\" Dia. Pipeline",
+        "Irrigation Water Conveyance, Rigid Gated Pipeline - Pipeline Installation - Normal, &le; 4\" Dia. Pipeline",
+        "Irrigation System, Sprinkler - System w/Appurtenances, 0 &le; 65 Acres Under System" 
+    ]
+}

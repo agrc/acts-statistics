@@ -1,0 +1,24 @@
+.app-grid {
+    height: 180px;
+    margin: 0 -1px 0 -1px;
+    font-size: 13px;
+}
+.claro .app-grid .dgrid {
+    height: 100%;
+    border: none;
+}
+.app-grid .field-county {
+    width: 150px;
+}
+.app-grid .field-year {
+    width: 200px;
+}
+.claro .app-grid .dgrid-row-odd {
+    background: #F6F4F0;
+}
+.claro .app-grid .dgrid-row:hover {
+    background: #EAE7DF;
+}
+.claro .app-grid .dgrid-selected {
+    background: #c2bfb9 !important;
+}

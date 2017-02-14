@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/atom/widget
+END
+FeedViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/atom/widget/FeedViewer.js
+END
+FeedEntryViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/atom/widget/FeedEntryViewer.js
+END
+FeedEntryEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/atom/widget/FeedEntryEditor.js
+END

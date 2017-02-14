@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/testing/tests
+END
+DocTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/testing/tests/DocTest.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/testing/tests/module.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/testing/tests/runTests.html
+END

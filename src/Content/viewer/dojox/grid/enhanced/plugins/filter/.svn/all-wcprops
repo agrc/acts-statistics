@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter
+END
+FilterDefDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/FilterDefDialog.js
+END
+_ConditionExpr.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/_ConditionExpr.js
+END
+FilterStatusTip.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/FilterStatusTip.js
+END
+ClearFilterConfirm.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/ClearFilterConfirm.js
+END
+FilterBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/FilterBar.js
+END
+_DataExprs.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/_DataExprs.js
+END
+FilterBuilder.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/FilterBuilder.js
+END
+FilterLayer.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/FilterLayer.js
+END
+_FilterExpr.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/grid/enhanced/plugins/filter/_FilterExpr.js
+END

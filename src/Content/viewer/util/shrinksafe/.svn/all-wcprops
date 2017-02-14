@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/LICENSE
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/js.jar
+END
+MPL-1.1.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/MPL-1.1.html
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/build.sh
+END
+shrinksafe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/shrinksafe.jar
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30224/tags/release-1.8.3/util/shrinksafe/README
+END

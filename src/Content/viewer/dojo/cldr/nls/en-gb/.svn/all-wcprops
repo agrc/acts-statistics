@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb
+END
+buddhist.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb/buddhist.js
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb/currency.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb/gregorian.js
+END
+islamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/cldr/nls/en-gb/islamic.js
+END

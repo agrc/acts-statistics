@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests
+END
+test_analytics-touchAndGestureEvents.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_analytics-touchAndGestureEvents.html
+END
+test_analytics-async.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_analytics-async.html
+END
+test_GoogleAnalytics.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_GoogleAnalytics.html
+END
+test_GoogleAnalyticsMarkup.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_GoogleAnalyticsMarkup.html
+END
+test_analytics.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_analytics.html
+END
+test_analytics-gestureEvents.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_analytics-gestureEvents.html
+END
+test_analytics-touchEvents.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/analytics/tests/test_analytics-touchEvents.html
+END

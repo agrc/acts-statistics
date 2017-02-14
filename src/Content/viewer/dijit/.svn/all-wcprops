@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/30227/tags/release-1.8.3/dijit
+END
+_Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_Container.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/main.js
+END
+MenuSeparator.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/MenuSeparator.js
+END
+MenuBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/MenuBar.js
+END
+PopupMenuBarItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/PopupMenuBarItem.js
+END
+_MenuBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_MenuBase.js
+END
+typematic.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/typematic.js
+END
+dijit.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/dijit.profile.js
+END
+_BidiSupport.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_BidiSupport.js
+END
+hccss.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/hccss.js
+END
+Menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Menu.js
+END
+PopupMenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/PopupMenuItem.js
+END
+dijit-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/dijit-all.js
+END
+TooltipDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/TooltipDialog.js
+END
+_WidgetBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_WidgetBase.js
+END
+a11yclick.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/a11yclick.js
+END
+DropDownMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/DropDownMenu.js
+END
+_Widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_Widget.js
+END
+_TemplatedMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_TemplatedMixin.js
+END
+Declaration.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Declaration.js
+END
+robot.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/robot.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Editor.js
+END
+_HasDropDown.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_HasDropDown.js
+END
+ProgressBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/ProgressBar.js
+END
+_CssStateMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_CssStateMixin.js
+END
+Toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Toolbar.js
+END
+_Contained.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_Contained.js
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/popup.js
+END
+MenuBarItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/MenuBarItem.js
+END
+a11y.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/a11y.js
+END
+Viewport.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Viewport.js
+END
+MenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/MenuItem.js
+END
+place.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/place.js
+END
+Tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Tooltip.js
+END
+CheckedMenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/CheckedMenuItem.js
+END
+Dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Dialog.js
+END
+DialogUnderlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/DialogUnderlay.js
+END
+_DialogMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_DialogMixin.js
+END
+dijit.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/dijit.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/LICENSE
+END
+registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/registry.js
+END
+_Calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_Calendar.js
+END
+Calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Calendar.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_base.js
+END
+_OnDijitClickMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_OnDijitClickMixin.js
+END
+robotx.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/robotx.js
+END
+Destroyable.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Destroyable.js
+END
+_Templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_Templated.js
+END
+focus.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/focus.js
+END
+ToolbarSeparator.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/ToolbarSeparator.js
+END
+_FocusMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_FocusMixin.js
+END
+TitlePane.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/TitlePane.js
+END
+CalendarLite.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/CalendarLite.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30227/tags/release-1.8.3/dijit/package.json
+END
+_TimePicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_TimePicker.js
+END
+_WidgetsInTemplateMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_WidgetsInTemplateMixin.js
+END
+InlineEditBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/InlineEditBox.js
+END
+ColorPalette.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/ColorPalette.js
+END
+_KeyNavContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_KeyNavContainer.js
+END
+Tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/Tree.js
+END
+WidgetSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/WidgetSet.js
+END
+_PaletteMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/_PaletteMixin.js
+END
+BackgroundIframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/BackgroundIframe.js
+END

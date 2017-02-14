@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/30224/tags/release-1.8.3/util/less
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/LICENSE
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/index.js
+END
+functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/functions.js
+END
+cssmin.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/cssmin.js
+END
+parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/parser.js
+END
+rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/rhino.js
+END
+tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/tree.js
+END
+colors.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/colors.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/README
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/30224/tags/release-1.8.3/util/less/browser.js
+END

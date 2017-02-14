@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mustache Template Tests</title>
+    
+        <link rel="stylesheet" href="../../app/resources/App.css">
+        <style>
+            body {
+                padding: 10px;
+                overflow-y: scroll;
+            }
+            .contract-popup, pre {
+                border: gray solid 1px;
+                padding: 5px;
+                width: 375px;
+            }
+            td {
+                vertical-align: top;
+            }
+            pre {
+                overflow-x: auto;
+            }
+        </style>
+
+        <script src="../../dojo/dojo.js"></script>
+        <script>
+            require([
+                'dojo/dom',
+                'dojo/_base/array',
+                'dojo/_base/window',
+                'dojo/dom-construct',
+                'mustache/mustache',
+                'app/Request',
+                'dojo/currency',
+
+                // templates
+                'dojo/text!app/templates/GIPPopupTemplate.html',
+                'dojo/text!app/templates/SalinityPopupTemplate.html',
+                'dojo/text!app/templates/OtherPopupTemplate.html',
+                'dojo/text!app/templates/ISMPopupTemplate.html',
+
+                'dojo/domReady!'
+            ], function(
+                dom,
+                array,
+                win,
+                domConstruct,
+                mustache,
+                request,
+                currency,
+                gipTemplate,
+                salinityTemplate,
+                otherTemplate,
+                ismTemplate
+                ) {
+
+                var apiUrl = 'http://test.mapserv.utah.gov/ACTS.statistics.API/api/project/';
+                // var apiUrl = 'http://geoedit.utah.gov/ACTS/api/project/';
+                var testTable = dom.byId('testTable').innerHTML;
+                function test(arr){
+                    request(apiUrl + arr[0], {jsonp: 'callback'}).then(function (json) {
+                        var view = {};
+                        view.title = arr[0];
+                        view.json = JSON.stringify(json, undefined, 4);
+                        view.image = arr[2];
+
+                        if (json.projectType === 'Basin States Salinity Control Program') {
+                            // this code needs to be duplicated in App::onRequestComplete
+                            var options = {currency: 'USD'};
+                            json.producersCosts = currency.format(currency.parse(json.totalCost, options) - currency.parse(json.amountOfContractPaid, options));
+                        }
+
+                        domConstruct.place(mustache.render(testTable, view), win.body());
+                        domConstruct.place(mustache.render(arr[1], json), dom.byId(arr[0]));
+
+                        // load tests one at a time to preserve their order on the page...
+                        if (tests.length > 0) {
+                            test(tests.pop());
+                        }
+                    });
+                }
+
+                var tests = [
+                    ['243DE5EC-FF36-4389-AD2C-C97E0026ADE5', ismTemplate, '604.png'],
+                    // ['70985F86-29D9-4C7C-8286-DA4E6EF50BC2', gipTemplate, '342.png'],
+                    // ['38BFB964-D969-42E0-A171-B5EDC69363B4', gipTemplate, '310.png'],
+                    // ['E39DE195-5FB0-4D25-86E0-D93F6EBC470E', gipTemplate, '322.png'],
+                    // ['4C370058-F21C-40D3-835B-3114A01BA1D0', salinityTemplate, '67.png'],
+                    // ['18D83E10-2867-46E0-A9FA-8D672BA4B574', salinityTemplate, '106.png'],
+                    // ['577A5017-1B45-474E-ACD2-D41F31777C44', salinityTemplate, '390.png'],
+                    // ['75A00D85-2038-4449-8A7F-2031E739E7FA', otherTemplate, '252.png'],
+                    // ['1D952436-B9E1-45AD-8537-D56A9807ED3C', otherTemplate, '540.png']
+                ];
+
+                test(tests.pop());
+            });
+        </script>
+    </head>
+    <body>
+        <div id="testTable" style='display: none;'>
+            <h3>{{title}}</h3>
+            <table>
+                <tr>
+                    <td>
+                        <div id="{{title}}"></div>
+                        <pre class='prettyprint'>{{json}}</pre>
+                    </td>
+                    <td><img src="images/{{image}}" alt=""></td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>

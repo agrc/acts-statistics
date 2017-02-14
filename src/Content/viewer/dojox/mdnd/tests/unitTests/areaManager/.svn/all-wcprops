@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mdnd/tests/unitTests/areaManager
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mdnd/tests/unitTests/areaManager/module.js
+END
+AreaManagerManagingDragItems.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mdnd/tests/unitTests/areaManager/AreaManagerManagingDragItems.html
+END
+AreaManagerRegistering.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mdnd/tests/unitTests/areaManager/AreaManagerRegistering.html
+END
+AreaManagerCoverPresence.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/mdnd/tests/unitTests/areaManager/AreaManagerCoverPresence.html
+END

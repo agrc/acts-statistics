@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/i18n-exhaustive/i18n-test/nls/ab
+END
+amdBundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/i18n-exhaustive/i18n-test/nls/ab/amdBundle.js
+END
+legacyBundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/30221/tags/release-1.8.3/dojo/tests/_base/loader/i18n-exhaustive/i18n-test/nls/ab/legacyBundle.js
+END

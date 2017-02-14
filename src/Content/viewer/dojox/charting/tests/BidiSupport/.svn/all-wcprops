@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport
+END
+bidi_RotatedLabels.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_RotatedLabels.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/module.js
+END
+bidi_Event2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_Event2d.html
+END
+bidi_ChartAxisTitle.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_ChartAxisTitle.html
+END
+bidi_DeclerativeChart.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_DeclerativeChart.html
+END
+bidi_Spider2d.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_Spider2d.html
+END
+stockHebrew.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/stockHebrew.json
+END
+bidi_Label_shortening.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_Label_shortening.html
+END
+bidi_SetTextDir.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_SetTextDir.html
+END
+bidi_Pies.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_Pies.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/runTests.html
+END
+bidi_Pie_smart_label.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_Pie_smart_label.html
+END
+bidi_SelectableLegend.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_SelectableLegend.html
+END
+bidi_DataSeries.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/30223/tags/release-1.8.3/dojox/charting/tests/BidiSupport/bidi_DataSeries.html
+END

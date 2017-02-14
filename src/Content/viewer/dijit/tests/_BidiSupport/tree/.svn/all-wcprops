@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/tree
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/tree/module.js
+END
+ProgrammaticTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/tree/ProgrammaticTree.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/_BidiSupport/tree/runTests.html
+END

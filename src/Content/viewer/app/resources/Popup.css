@@ -1,0 +1,26 @@
+.contract-popup {
+    font-size: 13px;
+}
+.contract-popup .list-container span:not(:last-of-type)::after {
+    content: ","
+}
+.contract-popup .list-container {
+    display: inline-block;
+}
+.contract-popup ul {
+    list-style: none;
+    padding-left: 10px;
+}
+.contract-popup li:not(:first-of-type) {
+    margin-top: 4px;
+}
+.contract-popup p, .contract-popup>div, .contract-popup ul {
+    margin: 5px 0;
+}
+.contract-popup h3 {
+    margin-top: 2px;
+}
+.contract-popup span.right {
+    display: inline-block;
+    float: right;
+}

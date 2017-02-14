@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor
+END
+test_LinkDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_LinkDialog.html
+END
+sample2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/sample2.jpg
+END
+test_ToggleDir.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_ToggleDir.html
+END
+test_FontChoice.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_FontChoice.html
+END
+nls_sjis.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/nls_sjis.html
+END
+customIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/customIcon.gif
+END
+test_Editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_Editor.html
+END
+test_NewPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_NewPage.html
+END
+BackForwardStateHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/BackForwardStateHelper.html
+END
+BackForwardState.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/BackForwardState.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/runTests.html
+END
+test_CustomPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_CustomPlugin.html
+END
+nls_8859-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/nls_8859-2.html
+END
+test_ViewSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_ViewSource.html
+END
+test_Print.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_Print.html
+END
+EnterKeyHandling.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/EnterKeyHandling.html
+END
+sample.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/sample.jpg
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/module.js
+END
+Editor_stylesheet.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/Editor_stylesheet.html
+END
+Editor_IE8Compat.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/Editor_IE8Compat.html
+END
+test_ToggleDir_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_ToggleDir_rtl.html
+END
+test_performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_performance.html
+END
+test_FullScreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_FullScreen.html
+END
+nls_utf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/nls_utf8.html
+END
+html.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/html.html
+END
+test_TabIndent.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_TabIndent.html
+END
+test_editor.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/30222/tags/release-1.8.3/dijit/tests/editor/test_editor.css
+END
