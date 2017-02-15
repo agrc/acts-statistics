@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ACTS.Statistics.API.WebApiApplication" Language="C#" %>

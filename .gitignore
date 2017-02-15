@@ -37,3 +37,10 @@ src/Content/viewer/spinjs/
 src/Content/viewer/stubmodule/
 src/Content/viewer/util/
 src/Content/viewer/xstyle/
+*.user
+*.suo
+api/bin
+api/obj
+api/connections.config
+api/packages
+*.pubxml
