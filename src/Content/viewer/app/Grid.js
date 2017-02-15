@@ -1,43 +1,45 @@
 define([
-    'dojo/_base/declare', 
-    'dijit/_WidgetBase', 
-    'dijit/_TemplatedMixin', 
-    'dijit/_WidgetsInTemplateMixin',
-    'dojo/text!app/templates/Grid.html',
+    './config',
+
     'dgrid/OnDemandGrid',
-    'dojo/aspect',
-    'dojo/_base/lang',
-    'agrc/modules/EsriLoader!esri/tasks/query',
-    'dojo/_base/array',
     'dgrid/Selection',
+
+    'dijit/_TemplatedMixin',
+    'dijit/_WidgetBase',
+    'dijit/_WidgetsInTemplateMixin',
+
+    'dojo/aspect',
     'dojo/store/Memory',
     'dojo/text!app/resources/data/counties.json',
     'dojo/text!app/resources/data/projectTypes.json',
-    'dojo/text!app/resources/data/years.json'
+    'dojo/text!app/resources/data/years.json',
+    'dojo/text!app/templates/Grid.html',
+    'dojo/_base/array',
+    'dojo/_base/declare',
+    'dojo/_base/lang'
+], function (
+    config,
 
-],
-
-function (
-    declare, 
-    _WidgetBase, 
-    _TemplatedMixin, 
-    _WidgetsInTemplateMixin, 
-    template,
     DGrid,
-    aspect,
-    lang,
-    Query,
-    array,
     Selection,
+
+    _TemplatedMixin,
+    _WidgetBase,
+    _WidgetsInTemplateMixin,
+
+    aspect,
     Memory,
     countiesJSON,
     projectTypesJSON,
-    yearsJSON
-    ) {
+    yearsJSON,
+    template,
+    array,
+    declare,
+    lang
+) {
     // summary:
     //      Contains a dgrid of all of the projects.
-    return declare('app/Grid', 
-        [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
+    return declare('app/Grid', [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
         widgetsInTemplate: true,
         templateString: template,
         baseClass: 'app-grid',
@@ -67,7 +69,7 @@ function (
 
 
         constructor: function () {
-            console.log(this.declaredClass + "::constructor", arguments);
+            console.log('app/Grid::constructor', arguments);
 
             var makeLookup = function (txt) {
                 var arr = JSON.parse(txt);
@@ -75,6 +77,7 @@ function (
                 array.forEach(arr, function (obj) {
                     lu[obj.id] = obj.name;
                 });
+
                 return lu;
             };
             this.counties = makeLookup(countiesJSON);
@@ -84,7 +87,7 @@ function (
         postCreate: function () {
             // summary:
             //      dom is ready
-            console.log(this.declaredClass + "::postCreate", arguments);
+            console.log('app/Grid::postCreate', arguments);
 
             this.inherited(arguments);
         },
@@ -93,8 +96,8 @@ function (
             //      Used to get a reference to the feature layer and app
             // layer: esri/layers/FeatureLayer
             // app: app/App
-            console.log(this.declaredClass + "::setPointsLayer", arguments);
-        
+            console.log('app/Grid::setPointsLayer', arguments);
+
             this.pointsLayer = layer;
             this.app = app;
             this.own(
@@ -106,8 +109,8 @@ function (
         buildGrid: function () {
             // summary:
             //      builds the dgrid
-            console.log(this.declaredClass + "::buildGrid", arguments);
-            
+            console.log('app/Grid::buildGrid', arguments);
+
             this.grid = new (declare([DGrid, Selection]))({
                 columns: {
                     name: 'Project Name',
@@ -124,8 +127,8 @@ function (
         updateFeatures: function () {
             // summary:
             //      queries for new features and populates the grid
-            console.log(this.declaredClass + "::updateFeatures", arguments);
-        
+            console.log('app/Grid::updateFeatures', arguments);
+
             this.grid.set('store', (this.formatDataForGrid(this.pointsLayer.graphics)));
             this.grid.set('sort', 'name');
         },
@@ -133,60 +136,61 @@ function (
             // summary:
             //      reformats the FeatureSet to an array suitable for DGrid
             // graphics: esri/Graphic[]
-            console.log(this.declaredClass + "::formatDataForGrid", arguments);
+            console.log('app/Grid::formatDataForGrid', arguments);
 
             var that = this;
             var countyDelimiter = ', ';
-        
+
             var data = array.map(graphics, function (f) {
                 var atts = f.attributes;
+
                 return {
-                    id: atts[AGRC.fields.OBJECTID],
-                    name: atts[AGRC.fields.ProjectName],
-                    year: that.years[atts[AGRC.fields.FundingYear]],
-                    county: array.map(atts[AGRC.fields.County].split(countyDelimiter), function (county) {
+                    id: atts[config.fields.OBJECTID],
+                    name: atts[config.fields.ProjectName],
+                    year: that.years[atts[config.fields.FundingYear]],
+                    county: array.map(atts[config.fields.County].split(countyDelimiter), function (county) {
                         return that.counties[county];
                     }).join(countyDelimiter),
-                    program: that.projectTypes[atts[AGRC.fields.ProjectType]],
+                    program: that.projectTypes[atts[config.fields.ProjectType]],
                     graphic: f
                 };
             });
 
-            return new Memory({data: data});
+            return new Memory({ data: data });
         },
         onRowSelected: function (evt) {
             // summary:
             //      fires when a row is selected
             // evt: Event
-            console.log(this.declaredClass + "::onRowSelected", arguments);
-                
+            console.log('app/Grid::onRowSelected', arguments);
+
             var graphic = evt.rows[0].data.graphic;
             var geometry = evt.rows[0].data.graphic.geometry;
 
-            if (!this.pointSelected) {
+            if (this.pointSelected) {
+                this.pointSelected = false;
+            } else {
                 this.rowSelected = true;
-                this.app.onPointClick({graphic: graphic});
+                this.app.onPointClick({ graphic: graphic });
                 if (!this.app.map.extent.contains(geometry)) {
                     this.app.map.centerAt(geometry);
                 }
-            } else {
-                this.pointSelected = false;
             }
         },
         onPointClicked: function (evt) {
             // summary:
             //      wired to app/App::onPointClick
             // evt: Event
-            console.log(this.declaredClass + "::onPointClicked", arguments);
-        
-            var oid = evt.graphic.attributes[AGRC.fields.OBJECTID];
-            if (!this.rowSelected) {
+            console.log('app/Grid::onPointClicked', arguments);
+
+            var oid = evt.graphic.attributes[config.fields.OBJECTID];
+            if (this.rowSelected) {
+                this.rowSelected = false;
+            } else {
                 this.pointSelected = true;
                 this.grid.clearSelection();
                 this.grid.select(oid);
                 this.grid.row(oid).element.scrollIntoView();
-            } else {
-                this.rowSelected = false;
             }
         }
     });

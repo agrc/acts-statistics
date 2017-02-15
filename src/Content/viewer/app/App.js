@@ -1,76 +1,87 @@
 define([
-    'dijit/registry', 
-    'dojo/dom', 
-    'dojo/_base/declare',
-    'dijit/_WidgetBase', 
-    'dijit/_TemplatedMixin', 
-    'dijit/_WidgetsInTemplateMixin',
-    'dojo/text!app/templates/App.html',
+    './config',
+    './Filter',
+
     'agrc/widgets/map/BaseMap',
-    'ijit/modules/ErrorLogger',
-    'agrc/modules/EsriLoader!esri/layers/FeatureLayer',
+
+    'dijit/registry',
+    'dijit/_TemplatedMixin',
+    'dijit/_WidgetBase',
+    'dijit/_WidgetsInTemplateMixin',
+
     'dojo/aspect',
-    'dojo/_base/lang',
-    'app/Request', // because of http://bugs.dojotoolkit.org/ticket/16408
+    'dojo/currency',
     'dojo/Deferred',
-    'mustache/mustache',
-    'dojo/text!app/templates/SalinityPopupTemplate.html',
-    'dojo/text!app/templates/GIPPopupTemplate.html',
-    'dojo/text!app/templates/OtherPopupTemplate.html',
-    'dojo/text!app/templates/ISMPopupTemplate.html',
-    'app/Filter',
-    'agrc/modules/EsriLoader!esri/symbols/PictureMarkerSymbol',
-    'agrc/modules/EsriLoader!esri/graphic',
+    'dojo/dom',
+    'dojo/dom-style',
+    'dojo/request/xhr',
+    'dojo/text!app/resources/data/counties.json',
     'dojo/text!app/resources/data/projectTypes.json',
     'dojo/text!app/resources/data/years.json',
-    'dojo/text!app/resources/data/counties.json',
+    'dojo/text!app/templates/App.html',
+    'dojo/text!app/templates/GIPPopupTemplate.html',
+    'dojo/text!app/templates/ISMPopupTemplate.html',
+    'dojo/text!app/templates/OtherPopupTemplate.html',
+    'dojo/text!app/templates/SalinityPopupTemplate.html',
     'dojo/topic',
-    'dojo/dom-style',
+    'dojo/_base/declare',
     'dojo/_base/event',
-    'dojo/currency',
+    'dojo/_base/lang',
 
+    'esri/geometry/Extent',
+    'esri/graphic',
+    'esri/layers/FeatureLayer',
+    'esri/symbols/PictureMarkerSymbol',
+
+    'layer-selector',
+
+    'mustache/mustache',
+
+    './Grid',
     'dijit/layout/BorderContainer',
-    'dijit/layout/ContentPane',
-    'app/Grid'
-], 
-
-function (
-    registry, 
-    dom, 
-    declare, 
-    _WidgetBase, 
-    _TemplatedMixin, 
-    _WidgetsInTemplateMixin, 
-    template, 
-    BaseMap, 
-    ErrorLogger, 
-    FeatureLayer,
-    aspect,
-    lang,
-    request,
-    Deferred,
-    mustache,
-    salinityPopupTemplate,
-    gipPopupTemplate,
-    otherPopupTemplate,
-    ismPopupTemplate,
+    'dijit/layout/ContentPane'
+], function (
+    config,
     Filter,
-    PictureMarkerSymbol,
-    Graphic,
+
+    BaseMap,
+
+    registry,
+    _TemplatedMixin,
+    _WidgetBase,
+    _WidgetsInTemplateMixin,
+
+    aspect,
+    currency,
+    Deferred,
+    dom,
+    domStyle,
+    xhr,
+    jsonCounties,
     jsonProjectTypes,
     jsonYears,
-    jsonCounties,
+    template,
+    gipTemplate,
+    ismTemplate,
+    otherTemplate,
+    salinityTemplate,
     topic,
-    domStyle,
+    declare,
     dojoEvent,
-    currency
-    ) {
-    return declare("app.App", 
-        [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], 
-        {
+    lang,
+
+    Extent,
+    Graphic,
+    FeatureLayer,
+    PictureMarkerSymbol,
+
+    LayerSelector,
+
+    mustache
+) {
+    return declare('app.App', [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
         // summary:
         //      The main widget for the app
-
         widgetsInTemplate: true,
         templateString: template,
         baseClass: 'app',
@@ -98,72 +109,86 @@ function (
         selectedGraphic: null,
 
 
-        constructor: function(){
+        constructor: function () {
             // summary:
             //      first function to fire after page loads
-            console.info(this.declaredClass + "::" + arguments.callee.nom, arguments);
+            console.info('app/App::ctor', arguments);
 
-            AGRC.errorLogger = new ErrorLogger({appName: 'ACTSStatisticsViewer'});
-            
-            AGRC.app = this;
+            config.app = this;
+            this.childWidgets = [];
 
             this.inherited(arguments);
 
-            // var symbol = new SimpleMarkerSymbol(SimpleMarkerSymbol.STYLE_CIRCLE, 16,
-            //    new SimpleLineSymbol(SimpleLineSymbol.STYLE_SOLID,
-            //    new dojo.Color([0, 255, 255]), 1),
-            //    new dojo.Color([0, 255, 255, 0.70]));
-            var symbol = new PictureMarkerSymbol('Content/viewer/app/resources/images/push_pin.png', 40, 40).setOffset(0, 17);
+            var size = 40;
+            var x = 0;
+            var y = 17;
+            var symbol = new PictureMarkerSymbol('Content/viewer/app/resources/images/push_pin.png', size, size)
+                        .setOffset(x, y);
             this.selectedGraphic = new Graphic(null, symbol);
             this.selectedGraphic.hide();
         },
         postCreate: function () {
             // summary:
-            //      Fires when 
-            console.log(this.declaredClass + "::" + arguments.callee.nom, arguments);
-        
+            //      Fires when
+            console.log('app/App::postCreate', arguments);
+
             // set version number
-            this.version.innerHTML = AGRC.version;
+            this.version.innerHTML = config.version;
 
             this.inherited(arguments);
         },
         startup: function () {
             // summary:
             //      Fires after postCreate when all of the child widgets are finished laying out.
-            console.log(this.declaredClass + "::" + arguments.callee.nom, arguments);
+            console.log('app/App::startup', arguments);
 
-            // call this before creating the map to make sure that the map container is 
+            // call this before creating the map to make sure that the map container is
             // the correct size
             this.inherited(arguments);
-            
-            this.initMap();
 
-            this.salinityTemplate = mustache.compile(salinityPopupTemplate);
-            this.gipTemplate = mustache.compile(gipPopupTemplate);
-            this.otherTemplate = mustache.compile(otherPopupTemplate);
-            this.ismTemplate = mustache.compile(ismPopupTemplate);
+            this.initMap();
 
             this.grid.setPointsLayer(this.pointLyr, this);
 
             this.own(
-                topic.subscribe(AGRC.topics.GIPPopup, function () {
+                topic.subscribe(config.topics.GIPPopup, function () {
                     registry.byId('gipPopupDialog').show();
                 }),
-                topic.subscribe(AGRC.topics.FilterChange, lang.hitch(this, this.clearSelectedProject))
+                topic.subscribe(config.topics.FilterChange, lang.hitch(this, this.clearSelectedProject))
             );
         },
-        initMap: function() {
+        initMap: function () {
             // summary:
             //      Sets up the map
-            console.info(this.declaredClass + "::" + arguments.callee.nom, arguments);
+            console.info('app/App::initMap', arguments);
 
             var that = this;
-            
-            this.map = new BaseMap(this.mapDiv, {defaultBaseMap: 'Hybrid'});
 
-            this.pointLyr = new FeatureLayer(AGRC.pointsLayerUrl, {
+            this.map = new BaseMap(this.mapDiv, {
+                useDefaultBaseMap: false,
+                showAttribution: false,
+                extent: new Extent({
+                    xmax: -12010849.397533866,
+                    xmin: -12898741.918094235,
+                    ymax: 5224652.298632992,
+                    ymin: 4422369.249751998,
+                    spatialReference: {
+                        wkid: 3857
+                    }
+                })
+            });
+
+            this.childWidgets.push(
+                new LayerSelector({
+                    map: this.map,
+                    quadWord: config.quadWord,
+                    baseLayers: ['Hybrid', 'Lite', 'Terrain', 'Topo', 'Color IR']
+                })
+            );
+
+            this.pointLyr = new FeatureLayer(config.urls.points, {
                 mode: FeatureLayer.MODE_SNAPSHOT,
-                outFields: AGRC.outFields
+                outFields: config.outFields
             });
 
             this.map.addLayer(this.pointLyr);
@@ -179,31 +204,33 @@ function (
                 aspect.after(this.map, 'onClick', lang.hitch(this, this.clearSelectedProject))
             );
 
-            new Filter({
-                name: 'Year',
-                json: jsonYears,
-                pointLyr: this.pointLyr,
-                fieldName: AGRC.fields.FundingYear
-            }, this.yearFilter);
-            new Filter({
-                name: 'Project Type',
-                json: jsonProjectTypes,
-                pointLyr: this.pointLyr,
-                fieldName: AGRC.fields.ProjectType
-            }, this.typeFilter);
-            new Filter({
-                name: 'County',
-                json: jsonCounties,
-                pointLyr: this.pointLyr,
-                fieldName: AGRC.fields.County,
-                queryTemplate: '${0} LIKE \'%${1}%\''
-            }, this.countyFilter);
+            this.childWidgets.push(
+                new Filter({
+                    name: 'Year',
+                    json: jsonYears,
+                    pointLyr: this.pointLyr,
+                    fieldName: config.fields.FundingYear
+                }, this.yearFilter),
+                new Filter({
+                    name: 'Project Type',
+                    json: jsonProjectTypes,
+                    pointLyr: this.pointLyr,
+                    fieldName: config.fields.ProjectType
+                }, this.typeFilter),
+                new Filter({
+                    name: 'County',
+                    json: jsonCounties,
+                    pointLyr: this.pointLyr,
+                    fieldName: config.fields.County,
+                    queryTemplate: '${0} LIKE \'%${1}%\''
+                }, this.countyFilter)
+            );
         },
         onPointClick: function (evt) {
             // summary:
             //      callback for clicking on point
             // evt: evt.Graphic
-            console.log(this.declaredClass + "::onPointClick", arguments);
+            console.log('app/App::onPointClick', arguments);
 
             var that = this;
 
@@ -223,17 +250,20 @@ function (
             //      fires when a graphic is clicked
             // graphic: esri/Graphic
             // returns: Deferred
-            console.log(this.declaredClass + "::getPopupContent", arguments);
-        
+            console.log('app/App::getPopupContent', arguments);
+
             this.map.showLoader();
 
-            this.xhrDeferred = new dojo.Deferred();
-            console.log('graphic.attributes[AGRC.outFields[0]]', graphic.attributes[AGRC.outFields[0]]);
+            this.xhrDeferred = new Deferred();
 
-            request(AGRC.apiUrl + graphic.attributes[AGRC.outFields[0]],
-            {
-                jsonp: 'callback'
-            }).then(lang.hitch(this, this.onRequestComplete), lang.hitch(this, this.onRequestFail));
+            xhr(config.urls.api + graphic.attributes[config.outFields[0]].replace(/{|}/g, ''),
+                {
+                    handleAs: 'json',
+                    headers: {
+                        'X-Requested-With': null
+                    }
+                }).then(lang.hitch(this, this.onRequestComplete),
+                lang.hitch(this, this.onRequestFail));
 
             return this.xhrDeferred;
         },
@@ -241,48 +271,46 @@ function (
             // summary:
             //      callback for request
             // json: Object
-            console.log(this.declaredClass + "::onRequestComplete", arguments);
+            console.log('app/App::onRequestComplete', arguments);
 
-            var template;
-            switch(json.projectType) {
-                case AGRC.salinityProjectType:
-                    var options = {currency: 'USD'};
-                    json.producersCosts = currency.format(currency.parse(json.totalCost, options) - 
-                        currency.parse(json.amountOfContractPaid, options));
-                    template = this.salinityTemplate;
+            var templateString;
+            switch (json.projectType) {
+                case config.salinityProjectType:
+                    var options = { currency: 'USD' };
+                    json.producersCosts = currency.format(currency.parse(json.totalCost, options) -
+                                          currency.parse(json.amountOfContractPaid, options));
+                    templateString = salinityTemplate;
                     break;
-                case AGRC.gipProjectType:
-                    template = this.gipTemplate;
+                case config.gipProjectType:
+                    templateString = gipTemplate;
                     break;
-                case AGRC.ismProjectType:
-                    template = this.ismTemplate;
+                case config.ismProjectType:
+                    templateString = ismTemplate;
                     break;
                 default:
-                    template = this.otherTemplate;
+                    templateString = otherTemplate;
             }
-            this.xhrDeferred.resolve(template(json));
+            this.xhrDeferred.resolve(mustache.render(templateString, json));
 
             this.map.hideLoader();
         },
-        onRequestFail: function (err) {
+        onRequestFail: function () {
             // summary:
             //      fail callback for ajax request
             // err: Error
-            console.log(this.declaredClass + "::onRequestFail", arguments);
+            console.log('app/App::onRequestFail', arguments);
 
-            window.alert('There was an error getting the project information');
+            window.alert('There was an error getting the project information'); // eslint-disable-line no-alert
 
-            AGRC.errorLogger.log(err);
-        
             this.map.hideLoader();
         },
         clearSelectedProject: function () {
             // summary:
             //      fires when the filters change
-            console.log(this.declaredClass + "::clearSelectedProject", arguments);
+            console.log('app/App::clearSelectedProject', arguments);
 
             this.selectedGraphic.hide();
-        
+
             domStyle.set(this.clickTxt, 'display', 'inline');
             this.projectInfo.innerHTML = '';
         }

@@ -1,41 +1,39 @@
 define([
-    'dojo/_base/declare', 
-    'dijit/_WidgetBase', 
-    'dijit/_TemplatedMixin', 
-    'dijit/_WidgetsInTemplateMixin',
-    'dojo/text!app/templates/Filter.html',
-    'agrc/modules/EsriLoader!esri/tasks/QueryTask',
+    './config',
+
     'dijit/form/FilteringSelect',
+    'dijit/_TemplatedMixin',
+    'dijit/_WidgetBase',
+    'dijit/_WidgetsInTemplateMixin',
+
     'dojo/aspect',
-    'dojo/_base/lang',
-    'agrc/modules/EsriLoader!esri/tasks/query',
     'dojo/store/Memory',
-    'dojo/_base/array',
     'dojo/string',
-    'dojo/topic'
+    'dojo/text!app/templates/Filter.html',
+    'dojo/topic',
+    'dojo/_base/array',
+    'dojo/_base/declare',
+    'dojo/_base/lang'
+], function (
+    config,
 
-],
-
-function (
-    declare, 
-    _WidgetBase, 
-    _TemplatedMixin, 
-    _WidgetsInTemplateMixin, 
-    template,
-    QueryTask,
     FilteringSelect,
+    _TemplatedMixin,
+    _WidgetBase,
+    _WidgetsInTemplateMixin,
+
     aspect,
-    lang,
-    Query,
     Memory,
-    array,
     string,
-    topic
-    ) {
+    template,
+    topic,
+    array,
+    declare,
+    lang
+) {
     // summary:
     //      Controls the filters for this app.
-    return declare('app/Filter', 
-        [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
+    return declare('app/Filter', [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
         widgetsInTemplate: true,
         templateString: template,
         baseClass: 'filter',
@@ -70,12 +68,12 @@ function (
         fieldName: null,
 
         constructor: function () {
-            console.log(this.declaredClass + "::constructor", arguments);
+            console.log('app/Filter::constructor', arguments);
         },
         postCreate: function () {
             // summary:
             //      dom is ready
-            console.log(this.declaredClass + "::postCreate", arguments);
+            console.log('app/Filter::postCreate', arguments);
 
             this.buildFilteringSelect();
 
@@ -84,10 +82,12 @@ function (
         buildFilteringSelect: function () {
             // summary:
             //      sets up the filtering select
-            console.log(this.declaredClass + "::buildFilteringSelect", arguments);
-        
-            var that = this;    
-            this.filteringSelect.set('store', new Memory({data: JSON.parse(this.json)}));
+            console.log('app/Filter::buildFilteringSelect', arguments);
+
+            var that = this;
+            this.filteringSelect.set('store', new Memory({
+                data: JSON.parse(this.json)
+            }));
 
             this.filteringSelect.set('value', '-1');
 
@@ -103,10 +103,10 @@ function (
             //      fires when the user changes the filtering select
             // newValue: Number
             //      The id of the object that was selected
-            console.log(this.declaredClass + "::onFilterChange", arguments);
+            console.log('app/Filter::onFilterChange', arguments);
 
-            var expression = (newValue !== '-1') ? 
-                string.substitute(this.queryTemplate, [this.fieldName, newValue]) : '';
+            var expression = (newValue === '-1') ? '' :
+                             string.substitute(this.queryTemplate, [this.fieldName, newValue]);
             var currentExpression = this.pointLyr.getDefinitionExpression();
             var and = ' AND ';
             var defs;
@@ -117,7 +117,7 @@ function (
                 if (currentExpression.indexOf(and) !== -1) {
                     defs = currentExpression.split(and);
 
-                    array.forEach(defs, function(d) {
+                    array.forEach(defs, function (d) {
                         if (d.indexOf(that.fieldName) !== -1) {
                             d = expression;
                             if (d === '') {
@@ -134,20 +134,17 @@ function (
                     if (currentExpression.indexOf(this.fieldName) === -1) {
                         finalExpression = finalExpression + and + expression;
                     }
+                } else if (currentExpression.indexOf(this.fieldName) === -1) {
+                    finalExpression = currentExpression + and + expression;
                 } else {
-                    if (currentExpression.indexOf(this.fieldName) !== -1) {
-                        finalExpression = expression;
-                    } else {
-                        finalExpression = currentExpression + and + expression;
-                    }
+                    finalExpression = expression;
                 }
             } else {
                 finalExpression = expression;
             }
             this.pointLyr.setDefinitionExpression(finalExpression);
-            console.log('finalExpression', finalExpression);
 
-            topic.publish(AGRC.topics.FilterChange);
+            topic.publish(config.topics.FilterChange);
         }
     });
 });

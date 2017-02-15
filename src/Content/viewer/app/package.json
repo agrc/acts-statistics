@@ -1,8 +1,8 @@
 {
-    "name": "app",
-    "version": "0.1",
+    "name": "acts-statistics",
+    "version": "2.0.0",
     "main": "main",
-    "description": "AGRC Boilerplate",
-    "homepage": "https://github.com/agrc/AGRCJavaScriptProjectBoilerPlate",
-    "dojoBuild": "package.js"
+    "description": "acts salinity statistics",
+    "homepage": "https://github.com/agrc/acts-statistics",
+    "dojoBuild": "app.profile.js"
 }

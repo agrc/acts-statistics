@@ -1,13 +1,22 @@
-/*jshint unused:false*/
-var dojoConfig = {
-    isDebug: false,
-    isJasmineTestRunner: true, // prevents parser in main.js from running
-    has: {'dojo-undef-api': true}
+/* global JasmineFaviconReporter, jasmineRequire */
+var dojoConfig = {  // eslint-disable-line no-unused-vars
+    baseUrl: '/src/',
+    // dojo is required here since we are defining baseUrl before loading dojo
+    packages: ['dojo',
+        {
+            name: 'agrc-jasmine-matchers',
+            location: 'agrc-jasmine-matchers/src'
+        }, {
+            name: 'stubmodule',
+            location: 'stubmodule/src',
+            main: 'stub-module'
+        }
+    ],
+    has: {
+        'dojo-undef-api': true
+    }
 };
 
-document.write("<script type='text/javascript' src='http://serverapi.arcgisonline.com/jsapi/arcgis/?v=3.4'></script>");
-
-// override alert to console
-window.alert = function(msg) {
-    console.error('ALERT OVERRIDDEN TO LOG: ' + msg);
-};
+// for jasmine-favicon-reporter
+jasmine.getEnv().addReporter(new JasmineFaviconReporter());
+jasmine.getEnv().addReporter(new jasmineRequire.JSReporter2());

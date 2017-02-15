@@ -1,36 +1,31 @@
 require([
+    'app/config',
     'app/Filter',
+
     'dojo/dom-construct',
-    'dojo/_base/window',
-    'agrc/modules/EsriLoader!esri/tasks/query',
-    'agrc/modules/EsriLoader!https://raw.github.com/stdavis/StubModule/master/StubModule.js',
     'dojo/text!app/resources/data/years.json',
-    'dojo/topic'
-
-],
-
-function (
+    'dojo/topic',
+    'dojo/_base/window'
+], function (
+    config,
     Filter,
+
     domConstruct,
-    win,
-    QueryTask,
-    StubModule,
     jsonTxt,
-    topic
-    ) {
+    topic,
+    win
+) {
     describe('app/Filter', function () {
         var testWidget;
         var destroy = function (widget) {
             widget.destroyRecursive();
             widget = null;
         };
-        var layerIndex;
         var name;
         var fieldName = 'fieldName';
         var setDefinitionExpressionSpy;
         beforeEach(function () {
             setDefinitionExpressionSpy = jasmine.createSpy('setDefinitionExpression');
-            layerIndex = 2;
             name = 'testName';
             testWidget = new Filter({
                 json: jsonTxt,
@@ -52,23 +47,23 @@ function (
             expect(testWidget).toEqual(jasmine.any(Filter));
         });
         describe('postCreate', function () {
-            it("calls buildFilteringSelect", function () {
+            it('calls buildFilteringSelect', function () {
                 spyOn(testWidget, 'buildFilteringSelect');
-                
+
                 testWidget.postCreate();
 
                 expect(testWidget.buildFilteringSelect).toHaveBeenCalled();
             });
         });
         describe('buildFilteringSelect', function () {
-            it("sets the filtering select equal to the first value", function () {
+            it('sets the filtering select equal to the first value', function () {
                 testWidget.buildFilteringSelect();
 
                 expect(testWidget.filteringSelect.get('value')).toEqual('-1');
             });
         });
         describe('onFilterChange', function () {
-            it("updates the def query on the pointLyr", function () {
+            it('updates the def query on the pointLyr', function () {
                 var value = 'blah';
 
                 testWidget.onFilterChange(value);
@@ -106,18 +101,19 @@ function (
 
                 expect(testWidget.pointLyr.setDefinitionExpression).toHaveBeenCalledWith('');
             });
-            it("handles more than two def queries", function () {
+            it('handles more than two def queries', function () {
                 testWidget.pointLyr.getDefinitionExpression = function () {
                     return 'blah1 AND blah2';
                 };
 
                 testWidget.onFilterChange('test');
 
-                expect(testWidget.pointLyr.setDefinitionExpression).toHaveBeenCalledWith('blah1 AND blah2 AND fieldName = test');
+                expect(testWidget.pointLyr.setDefinitionExpression)
+                        .toHaveBeenCalledWith('blah1 AND blah2 AND fieldName = test');
             });
-            it("published the FilterChange topic", function () {
+            it('published the FilterChange topic', function () {
                 var fired = false;
-                topic.subscribe(AGRC.topics.FilterChange, function () {
+                topic.subscribe(config.topics.FilterChange, function () {
                     fired = true;
                 });
 

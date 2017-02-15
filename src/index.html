@@ -21,10 +21,15 @@
         </div>
     </div>
 
-    <!-- JAVASCRIPT -->
-    <script data-dojo-config="isDebug: 1, tlmSiblingOfDojo: 1" src='http://serverapi.arcgisonline.com/jsapi/arcgis/3.4/' defer></script>
-    <script src='Content/viewer/app/nls/run_en-us.js' defer></script> <!-- for built version -->
-    <script src='Content/viewer/app/run.js' defer></script>
+    <!-- build:template
+    <script data-dojo-config="deps:['app/packages', 'app/run']" src='dojo/dojo.js'></script>
+    /build -->
+
+    <!-- build:remove -->
+    <script data-dojo-config="isDebug: 1" src='Content/viewer/dojo/dojo.js'></script>
+    <script src='Content/viewer/app/packages.js'></script>
+    <script src='Content/viewer/app/run.js'></script>
+    <!-- /build -->
 
     <!-- GOOGLE ANALYTICS -->
     <script>

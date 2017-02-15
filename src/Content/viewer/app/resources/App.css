@@ -1,9 +1,13 @@
 @import '../../agrc/resources/map/BaseMap.css';
-@import 'Popup.css';
-@import 'Filter.css';
+@import '../../layer-selector/resources/LayerSelector.css';
+@import '../../dijit/themes/claro/claro.css';
+@import '../../esri/css/esri.css';
 @import 'Grid.css';
 @import '../../dgrid/css/dgrid.css';
 @import '../../dgrid/css/skins/claro.css';
+@import 'Popup.css';
+@import 'Filter.css';
+
 
 body, html, .app {
     width: 100%;

@@ -1,21 +1,20 @@
 require([
     'app/Grid',
-    'dojo/dom-construct',
-    'dojo/_base/window',
+
     'dgrid/Grid',
-    'agrc/modules/EsriLoader!esri/tasks/query',
-    'dojo/text!app/tests/data/queryResponse.json'
 
-],
-
-function (
+    'dojo/dom-construct',
+    'dojo/text!app/tests/data/queryResponse.json',
+    'dojo/_base/window'
+], function (
     Grid,
-    domConstruct,
-    win,
+
     DGrid,
-    Query,
-    queryResponse
-    ) {
+
+    domConstruct,
+    queryResponse,
+    win
+) {
     describe('app/Grid', function () {
         var value = 'blah';
         var testWidget;
@@ -49,18 +48,18 @@ function (
                 };
                 testWidget.setPointsLayer(pointsLayer, app);
             });
-            it("sets the pointsLayer property and app property", function () {
+            it('sets the pointsLayer property and app property', function () {
                 testWidget.setPointsLayer(value, app);
 
                 expect(testWidget.pointsLayer).toEqual(value);
                 expect(testWidget.app).toEqual(app);
             });
-            it("wires the updateFeatures method", function () {
+            it('wires the updateFeatures method', function () {
                 pointsLayer.onUpdateEnd();
 
                 expect(testWidget.updateFeatures).toHaveBeenCalled();
             });
-            it("calls buildGrid", function () {
+            it('calls buildGrid', function () {
                 spyOn(testWidget, 'buildGrid');
 
                 testWidget.setPointsLayer(value, app);
@@ -69,12 +68,12 @@ function (
             });
         });
         describe('buildGrid', function () {
-            it("create a dgrid", function () {
+            it('create a dgrid', function () {
                 testWidget.buildGrid();
 
                 expect(testWidget.grid).toEqual(jasmine.any(DGrid));
             });
-            xit("wires the onRowSelected method", function () {
+            xit('wires the onRowSelected method', function () {
                 // couldn't get this one to work :(
                 var data = [{
                     guid: 'blah',
@@ -103,7 +102,7 @@ function (
                     set: function () {}
                 };
             });
-            it("query the feature layer for new features", function () {
+            it('query the feature layer for new features', function () {
                 spyOn(testWidget, 'formatDataForGrid').andReturn([]);
 
                 testWidget.updateFeatures();
@@ -113,16 +112,17 @@ function (
         });
         describe('formatDataForGrid', function () {
             var response = JSON.parse(queryResponse);
-            it("format the FeatureSet object to an array", function () {
+            it('format the FeatureSet object to an array', function () {
                 var results = testWidget.formatDataForGrid(response);
 
-                expect(results.data.length).toBe(6);
+                var gridItems = 6;
+                expect(results.data.length).toBe(gridItems);
                 expect(results.data[0]).toEqual({
                     id: 1117,
                     name: 'Casey Allred Salinity FY10',
                     year: '2010',
                     county: 'Emery, Garfield, Grand',
-                    program: "Basin States Salinity Control Program",
+                    program: 'Basin States Salinity Control Program',
                     graphic: response[0]
                 });
             });
@@ -133,7 +133,7 @@ function (
             var app;
             beforeEach(function () {
                 data = {
-                    graphic: {geometry: {}}
+                    graphic: { geometry: {} }
                 };
                 evt = {
                     rows: [{
@@ -151,21 +151,21 @@ function (
                 };
                 testWidget.app = app;
             });
-            it("call onPointClick", function () {
+            it('call onPointClick', function () {
                 testWidget.onRowSelected(evt);
 
                 expect(app.onPointClick).toHaveBeenCalledWith(data);
             });
-            it("only call onPointClick when pointSelected is false", function () {
+            it('only call onPointClick when pointSelected is false', function () {
                 testWidget.pointSelected = true;
 
                 testWidget.onRowSelected(evt);
 
                 expect(app.onPointClick).not.toHaveBeenCalled();
 
-                expect(testWidget.pointSelected).toBe(false);                
+                expect(testWidget.pointSelected).toBe(false);
             });
-            it("sets rowSelected", function () {
+            it('sets rowSelected', function () {
                 testWidget.onRowSelected(evt);
 
                 expect(testWidget.rowSelected).toBe(true);
@@ -203,13 +203,13 @@ function (
                     }
                 });
             });
-            it("selects the associated grid row", function () {
+            it('selects the associated grid row', function () {
                 testWidget.onPointClicked(evt);
 
                 expect(testWidget.grid.select).toHaveBeenCalledWith(value);
                 expect(testWidget.grid.clearSelection).toHaveBeenCalled();
             });
-            it("sets pointSelected", function () {
+            it('sets pointSelected', function () {
                 testWidget.onPointClicked(evt);
 
                 expect(testWidget.pointSelected).toBe(true);
