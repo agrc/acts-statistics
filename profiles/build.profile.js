@@ -30,7 +30,7 @@ var profile = {
     },
     packages: [{
         name: 'moment',
-        location: 'moment',
+        location: 'Content/viewer/moment',
         main: 'moment',
         trees: [
           // don't bother with .hidden, tests, min, src, and templates

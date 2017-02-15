@@ -121,7 +121,7 @@ module.exports = function configure(grunt) {
                 dojo: 'src/Content/viewer/dojo/dojo.js',
                 // Optional: Utility to bootstrap (Default: 'build')
                 load: 'build',
-                releaseDir: '../dist',
+                releaseDir: '../dist/Content/viewer',
                 // Optional: Module to require for the build (Default: nothing)
                 requires: ['src/Content/viewer/app/packages.js', 'src/Content/viewer/app/run.js'],
                 basePath: './src'
@@ -183,7 +183,7 @@ module.exports = function configure(grunt) {
             options: {},
             main: {
                 files: {
-                    'dist/index.html': ['src/index.html']
+                    'dist/Content/viewer/index.html': ['src/Content/viewer/index.html']
                 }
             }
         },
@@ -246,9 +246,9 @@ module.exports = function configure(grunt) {
                 },
                 files: [{
                     expand: true,
-                    cwd: 'src/',
+                    cwd: 'src/Content/viewer/',
                     src: ['app/**/*.styl'],
-                    dest: 'src/',
+                    dest: 'src/Content/viewer/',
                     ext: '.css'
                 }]
             }
