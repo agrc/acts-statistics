@@ -78,13 +78,11 @@ define([
     };
 
     if (has('agrc-build') === 'prod') {
-        // atlas.utah.gov
-        window.AGRC.apiKey = 'AGRC-A94B063C533889';
-        window.AGRC.quadWord = 'career-exhibit-panel-stadium';
+        // grantreporting.udaf.utah.gov
+        window.AGRC.quadWord = 'silicon-hand-wisdom-lotus';
     } else if (has('agrc-build') === 'stage') {
-        // test.mapserv.utah.gov
-        window.AGRC.quadWord = '';
-        window.AGRC.apiKey = 'AGRC-AC122FA9671436';
+        // geoedit.utah.gov
+        window.AGRC.quadWord = 'moment-mercy-magnum-arctic';
     } else {
         // localhost
         xhr(require.baseUrl + 'secrets.json', {
@@ -92,7 +90,6 @@ define([
             sync: true
         }).then(function (secrets) {
             window.AGRC.quadWord = secrets.quadWord;
-            window.AGRC.apiKey = secrets.apiKey;
         }, function () {
             throw 'Error getting secrets!';
         });
