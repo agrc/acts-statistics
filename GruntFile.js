@@ -37,29 +37,6 @@ module.exports = function configure(grunt) {
         '!stubmodule/**',
         '!util/**'
     ];
-    var deployDir = 'SGID';
-    var secrets;
-    try {
-        secrets = grunt.file.readJSON('secrets.json');
-    } catch (e) {
-        // swallow for build server
-
-        // still print a message so you can catch bad syntax in the secrets file.
-        grunt.log.write(e);
-
-        secrets = {
-            stage: {
-                host: '',
-                username: '',
-                password: ''
-            },
-            prod: {
-                host: '',
-                username: '',
-                password: ''
-            }
-        };
-    }
 
     // Project configuration.
     grunt.initConfig({
@@ -187,7 +164,6 @@ module.exports = function configure(grunt) {
                 }
             }
         },
-        secrets: secrets,
         uglify: {
             options: {
                 preserveComments: false,
