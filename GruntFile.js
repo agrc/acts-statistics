@@ -273,6 +273,9 @@ module.exports = function configure(grunt) {
                 dest: 'dist/Content/viewer/dojo/dojo.js'
             },
             prod: {
+                options: {
+                    sourceMap: false
+                },
                 files: [{
                     expand: true,
                     cwd: 'dist',
