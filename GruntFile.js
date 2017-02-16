@@ -173,10 +173,10 @@ module.exports = function configure(grunt) {
                 grunt: true
             },
             assets: {
-                tasks: ['eslint:main', 'stylus', 'jasmine:main:build']
+                tasks: ['eslint:main', 'jasmine:main:build']
             },
             buildAssets: {
-                tasks: ['eslint:main', 'clean:build', 'newer:imagemin:main', 'stylus']
+                tasks: ['eslint:main', 'clean:build', 'newer:imagemin:main']
             }
         },
         processhtml: {
@@ -188,71 +188,6 @@ module.exports = function configure(grunt) {
             }
         },
         secrets: secrets,
-        sftp: {
-            stage: {
-                files: {
-                    './': 'deploy/deploy.zip'
-                },
-                options: {
-                    host: '<%= secrets.stage.host %>',
-                    username: '<%= secrets.stage.username %>',
-                    password: '<%= secrets.stage.password %>'
-                }
-            },
-            prod: {
-                files: {
-                    './': 'deploy/deploy.zip'
-                },
-                options: {
-                    host: '<%= secrets.prod.host %>',
-                    username: '<%= secrets.prod.username %>',
-                    password: '<%= secrets.prod.password %>',
-                    path: './upload/' + deployDir
-                }
-            },
-            options: {
-                createDirectories: true,
-                path: './wwwroot/' + deployDir + '/',
-                srcBasePath: 'deploy/',
-                showProgress: true
-            }
-        },
-        sshexec: {
-            options: {
-
-            },
-            stage: {
-                command: ['cd wwwroot/' + deployDir, 'unzip -oq deploy.zip', 'rm deploy.zip'].join(';'),
-                options: {
-                    host: '<%= secrets.stage.host %>',
-                    username: '<%= secrets.stage.username %>',
-                    password: '<%= secrets.stage.password %>'
-                }
-            },
-            prod: {
-                command: ['cd wwwroot/' + deployDir, 'unzip -oq deploy.zip', 'rm deploy.zip'].join(';'),
-                options: {
-                    host: '<%= secrets.prod.host %>',
-                    username: '<%= secrets.prod.username %>',
-                    password: '<%= secrets.prod.password %>'
-                }
-            }
-        },
-        stylus: {
-            main: {
-                options: {
-                    compress: false,
-                    'resolve url': true
-                },
-                files: [{
-                    expand: true,
-                    cwd: 'src/Content/viewer/',
-                    src: ['app/**/*.styl'],
-                    dest: 'src/Content/viewer/',
-                    ext: '.css'
-                }]
-            }
-        },
         uglify: {
             options: {
                 preserveComments: false,
@@ -292,10 +227,6 @@ module.exports = function configure(grunt) {
             src: {
                 files: jsFiles.concat(otherFiles),
                 options: { livereload: true }
-            },
-            stylus: {
-                files: 'src/Content/viewer/app/**/*.styl',
-                tasks: ['newer:stylus']
             }
         }
     });
@@ -312,11 +243,6 @@ module.exports = function configure(grunt) {
         'copy:main',
         'processhtml:main'
     ]);
-    grunt.registerTask('deploy-prod', [
-        'clean:deploy',
-        'compress:main',
-        'sftp:prod'
-    ]);
     grunt.registerTask('build-stage', [
         'parallel:buildAssets',
         'dojo:stage',
@@ -324,14 +250,11 @@ module.exports = function configure(grunt) {
         'copy:main',
         'processhtml:main'
     ]);
-    grunt.registerTask('deploy-stage', [
+    grunt.registerTask('prepare-for-deploy', [
         'clean:deploy',
-        'compress:main',
-        'sftp:stage',
-        'sshexec:stage'
+        'compress:main'
     ]);
     grunt.registerTask('travis', [
-        'verbosity:main',
         'eslint:main',
         'jasmine:main:build',
         'connect',
