@@ -122,7 +122,8 @@ define([
             var size = 40;
             var x = 0;
             var y = 17;
-            var symbol = new PictureMarkerSymbol('~/Content/viewer/app/resources/images/push_pin.png', size, size)
+            var pictureUrl = 'http://grantreporting.udaf.utah.gov/Content/viewer/app/resources/images/push_pin.png';
+            var symbol = new PictureMarkerSymbol(pictureUrl, size, size)
                         .setOffset(x, y);
             this.selectedGraphic = new Graphic(null, symbol);
             this.selectedGraphic.hide();
