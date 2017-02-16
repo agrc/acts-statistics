@@ -47,7 +47,7 @@ define([
 
         // queryTemplate: String
         //      The string used to build the def query for this filter
-        queryTemplate: '${0} = ${1}',
+        queryTemplate: "${0}='${1}'",
 
 
         // parameters passed in via the constructor
