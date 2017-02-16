@@ -81,6 +81,18 @@ var profile = {
         'xstyle/css': 'xstyle/build/amd-css'
     },
     userConfig: {
-        packages: ['app', 'dijit', 'dojox', 'agrc', 'ijit', 'esri', 'layer-selector']
+        packages: [{
+            name: 'app',
+            location: 'Content/viewer/app'
+        }, {
+            name: 'dijit',
+            location: 'Content/viewer/dijit'
+        }, {
+            name: 'esri',
+            location: 'Content/viewer/esri'
+        }, {
+            name: 'layer-selector',
+            location: 'Content/viewer/layer-selector'
+        }]
     }
 };
