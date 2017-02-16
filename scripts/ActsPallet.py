@@ -74,6 +74,18 @@ class ActsPallet(Pallet):
 
         arcpy.Delete_management(project_area_fc)
 
+        self.log.debug('removing index')
+        try:
+            arcpy.RemoveIndex_management(in_table=self.CENTROIDS, index_name='webquery')
+        except Exception as e:
+            self.log.warn('error removing index: %s', e.message)
+
+        self.log.debug('adding index')
+        try:
+            arcpy.AddIndex_management(in_table=self.CENTROIDS, fields='y;t;c', index_name='webquery')
+        except Exception as e:
+            self.log.warn('error adding parcel index: %s', e.message)
+
         self.log.info('done.')
 
     def _create_workspace(self, workspace):
