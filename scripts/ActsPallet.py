@@ -34,7 +34,6 @@ class ActsPallet(Pallet):
         self.copy_data = [self.destination_workspace]
 
         self.fields = [('id', 'Guid'), ('y', 'TEXT'), ('t', 'TEXT'), ('n', 'TEXT'), ('c', 'TEXT')]
-        self.destination_coordinate_system = 26912
 
     def build(self, configuration='Production'):
         db = 'ACTS_PROD.sde'
@@ -44,16 +43,13 @@ class ActsPallet(Pallet):
 
         self.source_workspace = join(self.garage, db)
 
-        self.add_crate(self.PROJECTAREA,
-        {'source_workspace': self.source_workspace,
-         'destination_workspace': self.destination_workspace})
+        self.add_crate(self.PROJECTAREA, {'source_workspace': self.source_workspace, 'destination_workspace': self.destination_workspace})
 
         #: these crates have a different primary key
-        self.add_crates(
-            [self.PROJECTINFORMATION, self.CONTRACTINFORMATION, self.COUNTY],
-            {'source_workspace': self.source_workspace,
-             'destination_workspace': self.destination_workspace,
-             'source_primary_key': 'GUID'})
+        self.add_crates([self.PROJECTINFORMATION, self.CONTRACTINFORMATION, self.COUNTY],
+                        {'source_workspace': self.source_workspace,
+                         'destination_workspace': self.destination_workspace,
+                         'source_primary_key': 'GUID'})
 
         self._create_workspace(self.destination_workspace)
 
@@ -138,8 +134,7 @@ class ActsPallet(Pallet):
 
                 where_clause = 'GUID = \'{}\''.format(project[0])
 
-                with SearchCursor(self.PROJECTINFORMATION, ('FundingYear', 'ProjectType', 'ProjectName'),
-                                  where_clause) as project_informations:
+                with SearchCursor(self.PROJECTINFORMATION, ('FundingYear', 'ProjectType', 'ProjectName'), where_clause) as project_informations:
                     for project_information in project_informations:
                         #: set funding year
                         project[2] = project_information[0]
