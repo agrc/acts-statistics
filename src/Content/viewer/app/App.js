@@ -122,7 +122,7 @@ define([
             var size = 40;
             var x = 0;
             var y = 17;
-            var symbol = new PictureMarkerSymbol('Content/viewer/app/resources/images/push_pin.png', size, size)
+            var symbol = new PictureMarkerSymbol('~/Content/viewer/app/resources/images/push_pin.png', size, size)
                         .setOffset(x, y);
             this.selectedGraphic = new Graphic(null, symbol);
             this.selectedGraphic.hide();
