@@ -44,3 +44,4 @@ api/obj
 api/connections.config
 api/packages
 *.pubxml
+scripts/acts_secrets.py

@@ -15,15 +15,16 @@ from os.path import dirname
 from os.path import exists
 from os.path import join
 from forklift.models import Pallet
+import acts_secrets as secrets
 
 
 class ActsPallet(Pallet):
 
-    PROJECTAREA = 'ProjectArea'
-    CENTROIDS = 'ProjectArea_Points'
-    PROJECTINFORMATION = 'ProjectInformation'
-    CONTRACTINFORMATION = 'ContractInformation'
-    COUNTY = 'COUNTY'
+    PROJECTAREA = 'SALINITY_SALINITYADMIN_ProjectArea'
+    CENTROIDS = 'SALINITY_SALINITYADMIN_ProjectArea_Points'
+    PROJECTINFORMATION = 'SALINITY_SALINITYADMIN_ProjectInformation'
+    CONTRACTINFORMATION = 'SALINITY_SALINITYADMIN_ContractInformation'
+    COUNTY = 'SALINITY_SALINITYADMIN_COUNTY'
 
     def __init__(self):
         super(ActsPallet, self).__init__()
@@ -36,12 +37,7 @@ class ActsPallet(Pallet):
         self.fields = [('id', 'Guid'), ('y', 'TEXT'), ('t', 'TEXT'), ('n', 'TEXT'), ('c', 'TEXT')]
 
     def build(self, configuration='Production'):
-        db = 'ACTS_PROD.sde'
-
-        if configuration == 'Staging':
-            db = 'ACTS_STAGE.sde'
-
-        self.source_workspace = join(self.garage, db)
+        self.source_workspace = r'\\{}\c$\Scheduled\LocalScripts\DataPickup\Salinity.gdb'.format(secrets.SALINITY_MACHINE_IP)
 
         self.add_crate(self.PROJECTAREA, {'source_workspace': self.source_workspace, 'destination_workspace': self.destination_workspace})
 
@@ -72,19 +68,17 @@ class ActsPallet(Pallet):
 
         self._update_data_attributes()
 
-        arcpy.Delete_management(project_area_fc)
-
         self.log.debug('removing index')
         try:
             arcpy.RemoveIndex_management(in_table=self.CENTROIDS, index_name='webquery')
         except Exception as e:
-            self.log.warn('error removing index: %s', e.message)
+            self.log.warn('error removing index: %s', e)
 
         self.log.debug('adding index')
         try:
             arcpy.AddIndex_management(in_table=self.CENTROIDS, fields='y;t;c', index_name='webquery')
         except Exception as e:
-            self.log.warn('error adding parcel index: %s', e.message)
+            self.log.warn('error adding parcel index: %s', e)
 
         self.log.info('done.')
 
