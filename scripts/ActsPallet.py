@@ -44,8 +44,7 @@ class ActsPallet(Pallet):
         #: these crates have a different primary key
         self.add_crates([self.PROJECTINFORMATION, self.CONTRACTINFORMATION, self.COUNTY],
                         {'source_workspace': self.source_workspace,
-                         'destination_workspace': self.destination_workspace,
-                         'source_primary_key': 'GUID'})
+                         'destination_workspace': self.destination_workspace})
 
         self._create_workspace(self.destination_workspace)
 
